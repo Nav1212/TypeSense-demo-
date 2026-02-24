@@ -39,6 +39,32 @@ function formatDate(ts: number): string {
   });
 }
 
+/** Highlight matched tokens inside plain text by splitting on word boundaries. */
+function highlightTokens(text: string, tokens: string[]): ReactNode[] {
+  if (!tokens.length) return [text];
+  const escaped = tokens.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  const regex = new RegExp(`(${escaped.join('|')})`, 'gi');
+  const parts = text.split(regex);
+  return parts.map((part, i) =>
+    regex.test(part) ? (
+      <span
+        key={i}
+        style={{
+          color: '#1d4ed8',
+          fontWeight: 700,
+          background: 'rgba(191,219,254,.35)',
+          padding: '0 2px',
+          borderRadius: 2,
+        }}
+      >
+        {part}
+      </span>
+    ) : (
+      part
+    ),
+  );
+}
+
 /** Parse TypeSense <mark>…</mark> HTML into styled React nodes (pcn-hl style). */
 export function renderHighlight(raw: string): ReactNode[] {
   const parts = raw.split(/(<mark>.*?<\/mark>)/g);
@@ -88,7 +114,9 @@ export default function DocCard({ hit, rank, isMatched, isHovered }: DocCardProp
 
   const titleHL = highlights?.find((h) => h.field === 'title');
   const authorHL = highlights?.find((h) => h.field === 'author');
-  const bodyHL = highlights?.find((h) => ['description', 'content'].includes(h.field));
+  const bodyTokens = highlights
+    ?.filter((h) => ['description', 'content'].includes(h.field))
+    .flatMap((h) => h.matched_tokens ?? []) ?? [];
 
   const cardStyle: React.CSSProperties = {
     border: '1px solid #e2e8f0',
@@ -186,29 +214,6 @@ export default function DocCard({ hit, rank, isMatched, isHovered }: DocCardProp
           );
         }
 
-        if (bodyHL?.snippet) {
-          return (
-            <p
-              style={{
-                fontSize: 14,
-                color: '#334155',
-                lineHeight: 1.625,
-                marginTop: 12,
-                margin: '12px 0 0',
-                cursor: 'pointer',
-                display: '-webkit-box',
-                WebkitLineClamp: 4,
-                WebkitBoxOrient: 'vertical',
-                overflow: 'hidden',
-                fontFamily: 'inherit',
-              }}
-              onClick={() => setExpanded(true)}
-            >
-              {renderHighlight(bodyHL.snippet)}
-            </p>
-          );
-        }
-
         if (fullText) {
           return (
             <p
@@ -227,7 +232,7 @@ export default function DocCard({ hit, rank, isMatched, isHovered }: DocCardProp
               }}
               onClick={() => setExpanded(true)}
             >
-              {fullText}
+              {highlightTokens(fullText, bodyTokens)}
             </p>
           );
         }

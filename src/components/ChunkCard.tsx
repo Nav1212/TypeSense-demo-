@@ -1,14 +1,12 @@
 'use client';
 
+import { renderHighlight } from './DocCard';
+
 export interface ChunkData {
   docId: string;
   title: string;
   source: string;
   snippet: string;
-}
-
-function stripMark(html: string): string {
-  return html.replace(/<\/?mark>/g, '');
 }
 
 export default function ChunkCard({ chunk }: { chunk: ChunkData }) {
@@ -67,7 +65,7 @@ export default function ChunkCard({ chunk }: { chunk: ChunkData }) {
         WebkitBoxOrient: 'vertical',
         overflow: 'hidden',
       }}>
-        {stripMark(chunk.snippet)}
+        {renderHighlight(chunk.snippet)}
       </div>
     </div>
   );
