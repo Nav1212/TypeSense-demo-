@@ -58,7 +58,6 @@ export default function ChunkPanel({ hits, onHoverDoc }: ChunkPanelProps) {
     const handleClick = (e: MouseEvent) => {
       const docId = getDocId(e.target);
       if (!docId) return;
-      // Expand the card first, then scroll after it has re-rendered
       document.dispatchEvent(new CustomEvent('expand-doc', { detail: { docId } }));
       setTimeout(() => {
         document.getElementById(`doc-${docId}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -75,22 +74,42 @@ export default function ChunkPanel({ hits, onHoverDoc }: ChunkPanelProps) {
     };
   }, [chunks, onHoverDoc]);
 
-  if (chunks.length === 0) return null;
-
   return (
-    <div className="mt-5">
-      <div className="flex items-center gap-2 mb-2">
-        <div className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />
-        <h3 className="text-[10px] font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-widest whitespace-nowrap">
-          Matched Fragments
-        </h3>
-        <div className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />
+    <div>
+      {/* "MATCHED FRAGMENTS" title */}
+      <div style={{
+        fontSize: 11,
+        fontWeight: 700,
+        color: '#94a3b8',
+        letterSpacing: '0.05em',
+        textAlign: 'center',
+        marginBottom: 16,
+        textTransform: 'uppercase',
+      }}>
+        Matched Fragments
       </div>
-      <div ref={containerRef} className="space-y-1.5">
-        {chunks.map((chunk, i) => (
-          <ChunkCard key={`${chunk.docId}-${i}`} chunk={chunk} />
-        ))}
-      </div>
+
+      {chunks.length === 0 ? (
+        <div style={{ fontSize: 12, color: '#94a3b8', textAlign: 'center', padding: '20px 0' }}>
+          Type to see matched fragments
+        </div>
+      ) : (
+        /* Timeline list with vertical rail */
+        <div ref={containerRef} style={{ position: 'relative', paddingLeft: 16 }}>
+          {/* Vertical timeline rail */}
+          <div style={{
+            position: 'absolute',
+            left: 0,
+            top: 0,
+            bottom: 0,
+            width: 1,
+            background: '#e2e8f0',
+          }} />
+          {chunks.map((chunk, i) => (
+            <ChunkCard key={`${chunk.docId}-${i}`} chunk={chunk} />
+          ))}
+        </div>
+      )}
     </div>
   );
 }

@@ -39,36 +39,29 @@ function formatDate(ts: number): string {
   });
 }
 
-/** Parse TypeSense <mark>…</mark> HTML into styled React nodes. */
-export function renderHighlight(raw: string, firstChunkId?: string): ReactNode[] {
+/** Parse TypeSense <mark>…</mark> HTML into styled React nodes (pcn-hl style). */
+export function renderHighlight(raw: string): ReactNode[] {
   const parts = raw.split(/(<mark>.*?<\/mark>)/g);
-  let isFirst = true;
-
   return parts.map((part, i) => {
     if (part.startsWith('<mark>')) {
       const text = part.replace(/<\/?mark>/g, '');
-      const id = isFirst && firstChunkId ? firstChunkId : undefined;
-      isFirst = false;
       return (
-        <mark
+        <span
           key={i}
-          id={id}
-          className="bg-brand-100 dark:bg-brand-500/25 text-brand-800 dark:text-brand-200 rounded px-0.5 not-italic font-medium"
+          style={{
+            color: '#1d4ed8',
+            fontWeight: 700,
+            background: 'rgba(191,219,254,.35)',
+            padding: '0 2px',
+            borderRadius: 2,
+          }}
         >
           {text}
-        </mark>
+        </span>
       );
     }
     return part;
   });
-}
-
-/** Source badge colour mapping */
-function sourceBadgeClass(source: string): string {
-  if (source.includes('books')) return 'bg-violet-50 text-violet-600 dark:bg-violet-950/40 dark:text-violet-400';
-  if (source.includes('quotes')) return 'bg-amber-50 text-amber-600 dark:bg-amber-950/40 dark:text-amber-400';
-  if (source.includes('doctor')) return 'bg-teal-50 text-teal-600 dark:bg-teal-950/40 dark:text-teal-400';
-  return 'bg-slate-100 text-slate-500 dark:bg-slate-800 dark:text-slate-400';
 }
 
 interface DocCardProps {
@@ -91,117 +84,156 @@ export default function DocCard({ hit, rank, isMatched, isHovered }: DocCardProp
     return () => document.removeEventListener('expand-doc', handler);
   }, [doc.id]);
 
-  const textScore = text_match_info?.score
-    ? (parseInt(text_match_info.score, 10) / 2_147_483_647).toFixed(2)
-    : null;
-  const hybridScore = hybrid_search_info?.rank_fusion_score?.toFixed(2) ?? null;
-  const displayScore = hybridScore ?? textScore;
+  const dateLabel = doc.created_at ? formatDate(doc.created_at) : null;
 
   const titleHL = highlights?.find((h) => h.field === 'title');
   const authorHL = highlights?.find((h) => h.field === 'author');
   const bodyHL = highlights?.find((h) => ['description', 'content'].includes(h.field));
 
-  const borderClass = isMatched
-    ? 'border-l-[3px] border-brand-500'
-    : 'border-l-[3px] border-transparent';
-
-  const bgClass = isMatched
-    ? 'bg-brand-50/60 dark:bg-brand-900/10'
-    : 'bg-white dark:bg-slate-900';
-
-  const ringStyle: React.CSSProperties = isHovered
-    ? { boxShadow: '0 0 0 2px #3B82F6, 0 4px 16px rgba(59,130,246,0.18)' }
-    : {};
+  const cardStyle: React.CSSProperties = {
+    border: '1px solid #e2e8f0',
+    borderRadius: 8,
+    padding: '16px 18px',
+    background: '#fff',
+    marginBottom: 12,
+    transition: 'box-shadow .15s',
+    boxShadow: isHovered
+      ? '0 4px 12px rgba(59,130,246,0.15), 0 0 0 2px #3B82F6'
+      : '0 1px 3px rgba(0,0,0,0.04)',
+  };
 
   return (
-    <div
-      id={`doc-${doc.id}`}
-      className={`rounded-xl border border-slate-200 dark:border-slate-700 shadow-sm mb-3 transition-all
-        ${borderClass} ${bgClass}`}
-      style={ringStyle}
-    >
-      <div className="p-4">
-        {/* Header row */}
-        <div className="flex items-start justify-between gap-3">
-          <div className="flex-1 min-w-0">
-            {/* Title */}
-            <h3 className="font-semibold text-slate-900 dark:text-slate-100 text-sm leading-snug">
-              {titleHL?.value
-                ? renderHighlight(titleHL.value)
-                : doc.title ?? doc.content?.slice(0, 80) ?? 'Untitled'}
-            </h3>
+    <div id={`doc-${doc.id}`} style={cardStyle}>
 
-            {/* Author · Genre */}
-            {(doc.author || doc.genre) && (
-              <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-                {authorHL?.value ? renderHighlight(authorHL.value) : doc.author}
-                {doc.author && doc.genre && <span className="mx-1 opacity-40">·</span>}
-                {doc.genre && <span className="italic">{doc.genre}</span>}
-              </p>
-            )}
+      {/* ── Top row ── */}
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 8, gap: 12 }}>
+        <div style={{ flex: 1, minWidth: 0 }}>
 
-            {/* Badges row */}
-            <div className="mt-1.5 flex items-center gap-1.5 flex-wrap">
-              <span className={`inline-block text-[10px] font-medium px-1.5 py-0.5 rounded-md ${sourceBadgeClass(doc.source)}`}>
-                {doc.source}
-              </span>
-              {doc.created_at && (
-                <span className="inline-block text-[10px] text-slate-400 dark:text-slate-500">
-                  {formatDate(doc.created_at)}
-                </span>
-              )}
-            </div>
-          </div>
+          {/* Title */}
+          <h3 style={{ fontSize: 15, fontWeight: 700, color: '#0f172a', margin: 0 }}>
+            {titleHL?.value
+              ? renderHighlight(titleHL.value)
+              : (doc.title ?? doc.content?.slice(0, 80) ?? 'Untitled')}
+          </h3>
 
-          {/* Rank + score badge */}
-          {isMatched && (
-            <div className="flex-shrink-0 flex flex-col items-end gap-1">
-              <span className="text-[11px] bg-brand-500/10 text-brand-700 dark:text-brand-300 px-2 py-0.5 rounded-full font-mono whitespace-nowrap">
-                #{rank}
-                {displayScore && ` · ${displayScore}`}
-              </span>
+          {/* Author · Genre subtitle */}
+          {(doc.author || doc.genre) && (
+            <div style={{ fontSize: 14, color: '#64748b', marginTop: 2 }}>
+              {authorHL?.value ? renderHighlight(authorHL.value) : doc.author}
+              {doc.author && doc.genre && <span style={{ margin: '0 4px' }}>·</span>}
+              {doc.genre && <em>{doc.genre}</em>}
             </div>
           )}
+
+          {/* Meta row: source badge + date */}
+          <div style={{ display: 'flex', flexWrap: 'nowrap', alignItems: 'center', gap: 12, marginTop: 6 }}>
+            <span style={{
+              fontSize: 11,
+              fontWeight: 500,
+              color: '#059669',
+              background: '#ecfdf5',
+              padding: '2px 8px',
+              borderRadius: 9999,
+              whiteSpace: 'nowrap',
+            }}>
+              {doc.source}
+            </span>
+            {doc.created_at && (
+              <span style={{ fontSize: 12, color: '#94a3b8', whiteSpace: 'nowrap' }}>
+                {formatDate(doc.created_at)}
+              </span>
+            )}
+          </div>
         </div>
 
-        {/* Body — snippet when collapsed, full text when expanded */}
-        {(() => {
-          const fullText = doc.description ?? doc.content;
-          if (expanded && fullText) {
-            return (
-              <div className="mt-2">
-                <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed whitespace-pre-wrap">
-                  {fullText}
-                </p>
-                <button onClick={() => setExpanded(false)} className="mt-2 text-[11px] text-brand-600 dark:text-brand-400 hover:underline">
-                  Show less
-                </button>
-              </div>
-            );
-          }
-          if (bodyHL?.snippet) {
-            return (
-              <p
-                className="mt-2 text-sm text-slate-600 dark:text-slate-300 leading-relaxed line-clamp-4 cursor-pointer"
-                onClick={() => setExpanded(true)}
-              >
-                {renderHighlight(bodyHL.snippet, `chunk-${doc.id}`)}
-              </p>
-            );
-          }
-          if (fullText) {
-            return (
-              <p
-                className="mt-2 text-sm text-slate-600 dark:text-slate-300 leading-relaxed line-clamp-3 cursor-pointer"
-                onClick={() => setExpanded(true)}
-              >
+        {/* Rank + score tag */}
+        {isMatched && (
+          <div style={{
+            fontSize: 11,
+            fontWeight: 600,
+            color: '#2563eb',
+            background: '#eff6ff',
+            padding: '4px 10px',
+            borderRadius: 4,
+            border: '1px solid #dbeafe',
+            whiteSpace: 'nowrap',
+            flexShrink: 0,
+            alignSelf: 'flex-start',
+            fontFamily: 'ui-monospace, monospace',
+          }}>
+            #{rank}{dateLabel ? ` · ${dateLabel}` : ''}
+          </div>
+        )}
+      </div>
+
+      {/* ── Body text ── */}
+      {(() => {
+        const fullText = doc.description ?? doc.content;
+
+        if (expanded && fullText) {
+          return (
+            <div style={{ marginTop: 12 }}>
+              <p style={{ fontSize: 14, color: '#334155', lineHeight: 1.625, whiteSpace: 'pre-wrap', margin: 0, fontFamily: 'inherit' }}>
                 {fullText}
               </p>
-            );
-          }
-          return null;
-        })()}
-      </div>
+              <button
+                onClick={() => setExpanded(false)}
+                style={{ marginTop: 8, fontSize: 11, color: '#2563eb', background: 'none', border: 'none', cursor: 'pointer', padding: 0, fontFamily: 'inherit' }}
+              >
+                Show less
+              </button>
+            </div>
+          );
+        }
+
+        if (bodyHL?.snippet) {
+          return (
+            <p
+              style={{
+                fontSize: 14,
+                color: '#334155',
+                lineHeight: 1.625,
+                marginTop: 12,
+                margin: '12px 0 0',
+                cursor: 'pointer',
+                display: '-webkit-box',
+                WebkitLineClamp: 4,
+                WebkitBoxOrient: 'vertical',
+                overflow: 'hidden',
+                fontFamily: 'inherit',
+              }}
+              onClick={() => setExpanded(true)}
+            >
+              {renderHighlight(bodyHL.snippet)}
+            </p>
+          );
+        }
+
+        if (fullText) {
+          return (
+            <p
+              style={{
+                fontSize: 14,
+                color: '#334155',
+                lineHeight: 1.625,
+                marginTop: 12,
+                margin: '12px 0 0',
+                cursor: 'pointer',
+                display: '-webkit-box',
+                WebkitLineClamp: 3,
+                WebkitBoxOrient: 'vertical',
+                overflow: 'hidden',
+                fontFamily: 'inherit',
+              }}
+              onClick={() => setExpanded(true)}
+            >
+              {fullText}
+            </p>
+          );
+        }
+
+        return null;
+      })()}
     </div>
   );
 }

@@ -13,6 +13,14 @@
     scroll-behavior: smooth;
   }
 
+  body {
+    font-family: var(--font-open-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-poppins), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
   /* Scrollbar — light */
   .sidebar-scroll {
     scrollbar-width: thin;

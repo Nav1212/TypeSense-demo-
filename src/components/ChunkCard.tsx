@@ -7,31 +7,66 @@ export interface ChunkData {
   snippet: string;
 }
 
-interface ChunkCardProps {
-  chunk: ChunkData;
-}
-
 function stripMark(html: string): string {
   return html.replace(/<\/?mark>/g, '');
 }
 
-export default function ChunkCard({ chunk }: ChunkCardProps) {
+export default function ChunkCard({ chunk }: { chunk: ChunkData }) {
   return (
     <div
       data-doc-id={chunk.docId}
-      className="p-2.5 rounded-lg border border-slate-200 dark:border-slate-700
-        bg-white dark:bg-slate-800/60 cursor-pointer select-none
-        hover:border-brand-300 dark:hover:border-brand-600
-        hover:bg-brand-50/60 dark:hover:bg-brand-900/10
-        transition-all text-xs group"
+      style={{
+        background: '#fff',
+        border: '1px solid #e2e8f0',
+        borderRadius: 4,
+        padding: 12,
+        boxShadow: '0 1px 2px rgba(0,0,0,.04)',
+        marginBottom: 12,
+        position: 'relative',
+        cursor: 'pointer',
+        transition: 'border-color .15s, background .15s',
+      }}
+      onMouseEnter={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = '#93c5fd';
+        (e.currentTarget as HTMLDivElement).style.background = '#eff6ff';
+      }}
+      onMouseLeave={(e) => {
+        (e.currentTarget as HTMLDivElement).style.borderColor = '#e2e8f0';
+        (e.currentTarget as HTMLDivElement).style.background = '#fff';
+      }}
     >
-      <div className="font-medium text-slate-800 dark:text-slate-200 truncate leading-snug group-hover:text-brand-700 dark:group-hover:text-brand-300 transition-colors">
-        {chunk.title.slice(0, 36)}{chunk.title.length > 36 && '…'}
+      {/* Connecting horizontal line from timeline rail */}
+      <div style={{
+        position: 'absolute',
+        left: -16,
+        top: 16,
+        width: 12,
+        height: 1,
+        background: '#e2e8f0',
+      }} />
+
+      <div style={{
+        fontSize: 12,
+        fontWeight: 700,
+        color: '#1e293b',
+        whiteSpace: 'nowrap',
+        overflow: 'hidden',
+        textOverflow: 'ellipsis',
+      }}>
+        {chunk.title.slice(0, 40)}{chunk.title.length > 40 && '…'}
       </div>
-      <div className="text-[10px] font-mono text-slate-400 dark:text-slate-500 mb-1">
+      <div style={{ fontSize: 10, color: '#94a3b8', marginBottom: 6 }}>
         {chunk.source}
       </div>
-      <div className="text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed">
+      <div style={{
+        fontSize: 11,
+        color: '#475569',
+        lineHeight: 1.4,
+        display: '-webkit-box',
+        WebkitLineClamp: 2,
+        WebkitBoxOrient: 'vertical',
+        overflow: 'hidden',
+      }}>
         {stripMark(chunk.snippet)}
       </div>
     </div>
