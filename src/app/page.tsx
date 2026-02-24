@@ -293,7 +293,7 @@ export default function HomePage() {
       )}
 
       {/* ── Body ── */}
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-1 overflow-hidden gap-6">
 
         {/* Col 1: OkRx nav sidebar (far left) */}
         <NavSidebar />
