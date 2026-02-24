@@ -1,0 +1,49 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-03-19
+Patient ID: MR-0009
+Patient: Frank D., 49M
+
+CHIEF COMPLAINT
+Snoring, excessive daytime sleepiness — wife concerned.
+
+HISTORY OF PRESENT ILLNESS
+Frank is a 49-year-old male with obesity and hypertension who presents after his wife
+insists he be evaluated for possible sleep apnea. She reports loud snoring every night and
+has witnessed apneic episodes (him "stopping breathing" for up to 30 seconds). Frank
+reports he falls asleep within 5 minutes of sitting down, has fallen asleep at his desk at
+work, and nearly fell asleep driving last week. He reports unrefreshing sleep despite 7–8
+hours in bed. He denies cataplexy or sleep paralysis. He has mild morning headaches.
+Epworth Sleepiness Scale completed today: 18/24 (severe daytime sleepiness).
+
+PAST MEDICAL HISTORY: Hypertension (on amlodipine); Obesity (BMI 38)
+MEDICATIONS: Amlodipine 10 mg daily; ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 148/92 (high — worse control than usual), HR 84, Neck circumference: 44 cm (↑)
+Wt 112 kg, BMI 38.2
+Oropharynx: Mallampati class 3; crowded oropharynx; elongated soft palate; enlarged uvula
+             (mild); tonsillar hypertrophy grade 1; macroglossia mild
+Nasal: Mild septal deviation right; nasal turbinate mild enlargement
+
+ASSESSMENT
+1. Suspected obstructive sleep apnea (OSA) — highly likely given: witnessed apneas,
+   ESS 18, large neck circumference, crowded oropharynx, obesity, hypertension
+2. Hypertension — suboptimally controlled; OSA is a major contributor
+3. Obesity BMI 38 — driving OSA and hypertension
+
+PLAN
+1. Home sleep test (HST) ordered — AutoPAP level III device; patient instructed on use.
+   If HST inconclusive, refer for full in-lab PSG.
+2. Increase amlodipine to 10 mg daily (already at maximum); add losartan 50 mg daily
+   for BP control (dual therapy; also beneficial in OSA patients).
+3. Sleep hygiene: Lateral sleeping position; elevate head of bed 30°; avoid alcohol
+   and sedatives within 3 hours of sleep.
+4. Weight loss counselling — even 10% reduction can significantly improve AHI.
+   Refer to structured weight management program.
+5. ADVISE: Avoid driving or operating machinery until sleep apnea is assessed and treated —
+   documented in chart.
+6. Follow-up: 2–3 weeks with HST results. If AHI >5, CPAP/APAP therapy to be initiated.
+7. If CPAP initiated: ENT referral if CPAP intolerant (surgical options: UPPP, Inspire implant).
+
+Electronically signed: Dr. Marcus Reed, MD

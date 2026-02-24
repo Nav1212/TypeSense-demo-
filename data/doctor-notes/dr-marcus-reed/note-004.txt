@@ -1,0 +1,80 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-02-05
+Patient ID: MR-0004
+Patient: Ethan B., 16M (Parent: Jennifer B.)
+
+CHIEF COMPLAINT
+Sports physical — clearance for high school football.
+
+HISTORY OF PRESENT ILLNESS
+Ethan is a 16-year-old male presenting with his mother for a preparticipation physical
+examination (PPE) prior to high school football season. He is asymptomatic. He denies
+chest pain, palpitations, syncope, or presyncope with exertion. No recent illness.
+No musculoskeletal injuries. Mother denies family history of sudden cardiac death
+in young athletes or first-degree relatives <50 years.
+
+PAST MEDICAL HISTORY: Mild intermittent asthma (well-controlled; no exacerbations ×2 years)
+MEDICATIONS: Albuterol MDI PRN (last used 8 months ago); Fluticasone 44 mcg BID (PRN in
+             pollen season, not currently using)
+ALLERGIES: NKDA
+
+FAMILY HISTORY
+Mother — hypertension; Father — healthy; No family history of sudden death, HCM,
+Marfan's syndrome, long QT syndrome, or aortic aneurysm.
+
+SOCIAL HISTORY: High school sophomore. Non-smoker. No alcohol. No illicit drugs.
+               No tobacco use. Active — plays football and basketball.
+
+REVIEW OF SYSTEMS (PPE screening)
+Cardiovascular: No chest pain with exercise, no syncope/presyncope, no palpitations,
+                no excessive SOB beyond expected exertion, no prior told "heart murmur"
+Respiratory: Asthma well-controlled; no exercise-induced symptoms currently
+Musculoskeletal: No prior significant injuries; mild right ankle sprain 3 months ago —
+                 fully recovered; no pain with running or cutting
+Neurological: No prior concussion
+General: No fever; normal energy
+
+PHYSICAL EXAMINATION
+Vitals: BP 118/72 (right arm), 116/70 (left arm), HR 60, Ht 5'10", Wt 72 kg, BMI 22.8
+General: Well-built, athletic-appearing adolescent; no dysmorphic features
+Eyes: Normal; no lens dislocation (Marfan screen)
+Cardiovascular:
+  - RRR; rate 60; no murmurs at rest
+  - Murmur assessment with Valsalva maneuver and standing: no change in murmur quality —
+    no dynamic outflow murmur (HCM screen negative)
+  - No heave; PMI normal position; peripheral pulses 2+ symmetric
+Musculoskeletal:
+  - Full ROM all joints bilaterally
+  - Right ankle: intact ligamentous stability; no tenderness; full ROM; symmetric strength
+  - No scoliosis on Adam's forward bend test
+  - Extremity symmetry: arm span < height (Marfan screen: arm span 70", height 70" — equal)
+Respiratory: Lungs clear; no wheezing at rest
+Genitourinary: Tanner stage 4; normal male external genitalia; both testes descended;
+               no varicocele palpable (not concerning at this time)
+Neurological: Alert, cooperative; CN II–XII intact; coordination normal
+
+EKG: Performed per school system requirement — NSR, HR 58, PR 160 ms, QTc 398 ms,
+     no delta waves, no LVH criteria, no ST changes — NORMAL
+
+ASSESSMENT
+1. Pre-participation physical examination — no contraindications to athletic participation
+2. Mild intermittent asthma — well-controlled; cleared for contact sports
+3. Prior right ankle sprain — fully resolved; no restriction
+
+PLAN
+1. CLEARED FOR PARTICIPATION — football and all high school sports.
+2. Medical clearance form signed and provided to school athletic department.
+3. Albuterol MDI — ensure available at all practices and games (inform coaching staff).
+   Written asthma action plan provided to school nurse.
+4. Counsel on proper hydration during summer practices (heat acclimatisation);
+   avoid excessive NSAID use for sport injuries (prefer ice/rest first).
+5. Counsel on concussion awareness — recognize and report symptoms; do not play through
+   head injury.
+6. If any chest pain, syncope, or palpitations with exercise — stop immediately and seek care.
+7. Return for annual physical next year or as needed for acute concerns.
+
+Ethan and his mother both pleased with results. Questions about asthma management at
+practice answered. Cleared with no restrictions.
+
+Electronically signed: Dr. Marcus Reed, MD

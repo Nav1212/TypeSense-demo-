@@ -1,0 +1,65 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-01-16
+Patient ID: MR-0002
+Patient: Carlos M., 44M
+
+CHIEF COMPLAINT
+Lower back pain after lifting — 1 week.
+
+HISTORY OF PRESENT ILLNESS
+Carlos is a 44-year-old male construction worker who presents with a 1-week history of
+acute low back pain following lifting heavy materials at work. The pain is dull, aching,
+centered at L4–L5 region, non-radiating (no radiation to buttocks, legs, or feet), rated
+5–6/10 at rest, worsening with flexion and prolonged standing. No saddle anesthesia.
+No bowel/bladder dysfunction. No fever. No trauma to the head. He has been self-treating
+with ibuprofen 400 mg TID with partial relief. He missed 3 days of work.
+
+PAST MEDICAL HISTORY: No significant history. No prior back surgery.
+MEDICATIONS: Ibuprofen 400 mg TID (self-prescribed ×7 days)
+ALLERGIES: NKDA
+
+SOCIAL HISTORY
+Married, 3 children. Smokes 10 cigarettes/day (10 pack-year). Drinks 2–3 beers/night.
+Physically demanding work — lifts 20–40 kg regularly.
+
+REVIEW OF SYSTEMS
+Musculoskeletal: Low back pain; no leg weakness; no leg pain; no bowel/bladder change
+Neurological: No numbness, no tingling in lower extremities
+
+PHYSICAL EXAMINATION
+Vitals: BP 132/84, HR 78, Temp 36.8°C, Wt 94 kg, BMI 30.1
+General: No distress at rest; antalgic gait (prefers extension)
+Back: Para-spinal muscle spasm L3–L5 bilateral; midline non-tender; PROM flexion limited
+     to 60° (normal 90°); extension 20° (normal 25°); lateral bending symmetric
+Straight leg raise: Negative bilaterally (no radicular reproduction)
+Neurological: Motor 5/5 bilateral lower extremities; reflexes 2+ bilateral;
+              sensation intact bilateral S1, L4, L5 distributions
+
+RED FLAGS ASSESSMENT
+No saddle anesthesia, no urinary/bowel incontinence, no fever, no unexplained weight loss,
+no history of malignancy, no IV drug use, no prolonged steroid use — NO RED FLAGS IDENTIFIED
+
+ASSESSMENT
+1. Acute mechanical low back pain — no red flags; likely acute lumbar muscle strain
+2. Overweight (BMI 30.1) — contributes to lumbar spine load
+3. Tobacco use — counselled on cessation
+4. Alcohol intake — above recommended limits (counselled briefly)
+
+PLAN
+1. Continue ibuprofen 600 mg TID with food ×7 more days; then taper and use PRN.
+   Add omeprazole 20 mg daily for GI protection while on NSAIDs.
+2. Cyclobenzaprine 5 mg TID PRN for 5 days (muscle relaxant; use at bedtime, caution
+   driving). Short course only — avoid dependency.
+3. Physical therapy referral — lumbar stabilisation program; 6 visits.
+4. Activity modification: Avoid heavy lifting >10 kg for 2 weeks. Light duty work discussed
+   with patient. Work note provided for modified duties ×2 weeks.
+5. Apply ice for first 48 hours (20 min on/off), then heat.
+6. Reinforce: 90% of acute LBP resolves within 6–12 weeks with conservative management.
+7. Tobacco cessation counselling provided; offered NRT — patient declined today but will
+   consider. Will revisit at next visit.
+8. Alcohol: Recommend reducing to ≤14 units/week; provided written materials.
+9. Return if symptoms worsen, no improvement in 4 weeks, or red flags develop
+   (leg weakness, bladder dysfunction, fever).
+
+Electronically signed: Dr. Marcus Reed, MD

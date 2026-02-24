@@ -1,0 +1,94 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-03-11
+Patient ID: EC-0008
+Patient: George M., 78M
+
+CHIEF COMPLAINT
+Confusion and fall last evening. Family brought him in.
+
+HISTORY OF PRESENT ILLNESS
+George is a 78-year-old male with a history of Parkinson's disease (on levodopa/carbidopa),
+benign prostatic hyperplasia, and mild cognitive impairment (MCI) who is brought in by his
+daughter following an episode of acute confusion and a fall in the bathroom last evening.
+Per daughter: he was found disoriented, trying to urinate, stumbled and struck his right
+knee. No loss of consciousness. No vomiting. He has had two prior falls in the past month.
+His daughter also notes he has been voiding very frequently (every 1–2 hours) and has
+complained of burning with urination for the past 3 days. He has been eating and drinking
+less than usual. His levodopa dose was increased 3 weeks ago.
+
+PAST MEDICAL HISTORY
+- Parkinson's disease (PD) — on levodopa/carbidopa 25/100 mg QID
+- Benign prostatic hyperplasia (BPH) — on tamsulosin 0.4 mg daily
+- Mild cognitive impairment (MCI)
+- Osteoarthritis (knees bilaterally)
+- Hypertension — on amlodipine 5 mg daily
+
+MEDICATIONS (as listed above plus): Donepezil 5 mg nightly; Multivitamin daily
+
+ALLERGIES: Trimethoprim (rash)
+
+FAMILY HISTORY: Non-contributory
+
+SOCIAL HISTORY: Widowed. Lives with daughter. Retired engineer. Non-smoker. No alcohol.
+
+REVIEW OF SYSTEMS
+Constitutional: Decreased oral intake, mild fatigue
+Cardiovascular: No chest pain
+Respiratory: No cough, no dyspnea
+GU: Dysuria, urinary frequency, urgency — 3 days; no hematuria visible
+Neurological: Worsening confusion (acute on chronic); falls ×3 past month
+Psychiatric: Daughter reports visual hallucinations (seeing people who aren't there) ×2 weeks
+
+PHYSICAL EXAMINATION
+Vitals: BP 132/78 (seated), 104/62 (standing — orthostatic hypotension), HR 84, Temp 38.1°C,
+        SpO2 97% RA, Wt 68 kg
+General: Elderly male, mildly confused; oriented to name only; slow movements
+HEENT: Mucous membranes slightly dry; no scleral icterus
+Cardiovascular: RRR; no murmurs
+Respiratory: Clear bilaterally
+Abdomen: Soft; suprapubic mild tenderness to deep palpation; no rebound
+GU: Bladder not palpably distended
+Neurological: Masked facies; resting tremor R hand; cogwheel rigidity R upper extremity;
+              slow gait; MMSE 18/30 (prior 24/30 per chart 6 months ago)
+Skin: Ecchymosis right knee; no laceration; no head trauma on exam
+
+DIAGNOSTIC RESULTS
+UA: WBC 50+/hpf, RBC 5–10/hpf, bacteria moderate, nitrites positive, leukocyte esterase 3+
+Urine culture: Pending (sent)
+BMP: Na 130 (↓), K 4.1, Cr 1.3 (baseline 1.0), BUN 28, Glu 98 — dehydration, hyponatremia
+CBC: WBC 13.2 (↑), Hgb 11.8, Plt 198 — leukocytosis consistent with infection
+LFTs: Normal
+TSH: 2.3 — normal
+Head CT (non-contrast, done at triage): No acute intracranial abnormality; no bleed; mild
+     chronic small vessel disease; generalized cortical atrophy consistent with age
+
+ASSESSMENT
+1. Acute urinary tract infection (UTI) — likely cause of acute-on-chronic confusion
+   (delirium precipitated by infection in patient with MCI and Parkinson's disease)
+2. Orthostatic hypotension — contributing to fall risk; likely exacerbated by dehydration
+   and recent levodopa dose change
+3. Dehydration with mild hyponatremia — prerenal AKI
+4. Visual hallucinations — may be related to PD (Parkinson's disease psychosis) vs.
+   anticholinergic effect vs. delirium; needs careful monitoring
+5. Recent fall ×3 — multifactorial (PD, orthostasis, delirium)
+
+PLAN
+1. Admit for IV fluid rehydration (NS 0.9% at 75 mL/hr), IV antibiotics
+   — nitrofurantoin contraindicated with AKI; start ceftriaxone 1 g IV daily
+   pending culture/sensitivities (allergy to TMP noted).
+2. Treat delirium: frequent reorientation, minimize sedating medications, avoid
+   anticholinergics, room lighting, family presence encouraged.
+3. Hold tamsulosin temporarily (orthostatic hypotension concern; re-evaluate when
+   hemodynamically stable).
+4. Neurology consult for hallucinations and levodopa dose review.
+5. Physical therapy consult — fall risk assessment.
+6. Social work consult — caregiver support, discharge planning.
+7. Delirium precautions: bed alarm, bed in lowest position, pad side rails.
+8. Strict I&O, BMP Q12H, daily weight.
+9. Communicate plan with daughter — she is designated decision-maker per POLST on file.
+10. Follow-up with Dr. Chen and neurologist within 7 days of discharge.
+
+Daughter counselled extensively. Plan explained. She expressed understanding and gratitude.
+
+Electronically signed: Dr. Emily Chen, MD

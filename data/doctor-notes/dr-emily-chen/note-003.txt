@@ -1,0 +1,91 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-01-22
+Patient ID: EC-0003
+Patient: Sandra K., 55F
+
+CHIEF COMPLAINT
+Annual wellness examination.
+
+HISTORY OF PRESENT ILLNESS
+Sandra is a 55-year-old female presenting for her annual wellness exam. She reports feeling
+generally well. Notes mild intermittent hot flashes (2–3/day, 6 months duration) consistent
+with perimenopause. Sleep slightly disrupted. No other acute complaints.
+
+PAST MEDICAL HISTORY
+- Hypothyroidism (on levothyroxine 75 mcg daily, well-controlled)
+- Depression — in remission, on sertraline 50 mg daily for 4 years
+
+MEDICATIONS
+- Levothyroxine 75 mcg daily (take on empty stomach)
+- Sertraline 50 mg daily
+- Vitamin D3 2000 IU daily
+- Calcium 600 mg BID
+
+ALLERGIES: Sulfa drugs (GI upset)
+
+FAMILY HISTORY
+Mother — breast cancer (age 64), osteoporosis; Father — MI (age 70)
+
+SOCIAL HISTORY
+Non-smoker (quit 10 years ago, 10 pack-year history). Occasional alcohol (1–2 drinks/week).
+Married. Active — walks 30 min daily.
+
+REVIEW OF SYSTEMS
+Constitutional: No fever, no weight loss
+Cardiovascular: No chest pain, no palpitations
+Respiratory: No cough
+GI: Normal bowel habits, no GI bleeding
+GU: Irregular menses ×6 months, hot flashes 2–3/day
+Breast: No masses, no nipple discharge (last mammogram 12 months ago — normal)
+Skin: No new lesions
+Neurological: No headache, mood stable
+
+PHYSICAL EXAMINATION
+Vitals: BP 122/76, HR 68, Temp 36.6°C, Wt 68 kg, BMI 24.1
+General: Pleasant, well-appearing
+HEENT: Thyroid normal size, no nodules palpable
+Lymph nodes: No cervical, axillary, or inguinal lymphadenopathy
+Cardiovascular: RRR, no murmurs
+Respiratory: Clear bilaterally
+Abdomen: Soft, non-tender, no masses
+Breast: No discrete masses; no skin changes; axillae clear
+Pelvic: Deferred (recent GYN visit 3 months ago — Pap normal, IUD in situ)
+Skin: No suspicious lesions; several benign seborrheic keratoses on back
+Neurological: Alert and oriented ×3; normal mood and affect
+
+PREVENTIVE CARE STATUS
+Mammogram: Done 12 months ago — normal; due next year
+Pap/HPV co-test: Done 3 months ago — negative
+Colonoscopy: Due (age 55, never done — scheduled)
+DEXA scan: Ordered today (family history, post-menopausal transition)
+TSH: 1.8 mU/L (within target 1–2.5 for hypothyroid patient)
+Lipid panel: TC 196, LDL 112, HDL 58, TG 130 — acceptable
+HbA1c: 5.4% — normal
+Vitamin D level: 32 ng/mL — adequate
+
+IMMUNIZATIONS
+- Influenza: administered today
+- COVID booster: up to date
+- Tdap: 3 years ago
+- Shingrix dose 1: recommended — patient to schedule
+
+ASSESSMENT
+1. Annual wellness — healthy adult female
+2. Perimenopausal symptoms — hot flashes, sleep disruption
+3. Hypothyroidism — well-controlled on current levothyroxine dose
+4. Preventive care: DEXA ordered, shingles vaccination recommended
+
+PLAN
+1. Perimenopause counseling: Discussed non-hormonal options — low-dose SSRI (current
+   sertraline may already provide benefit). Consider venlafaxine or gabapentin if hot flashes
+   worsen. Patient prefers to monitor for now.
+2. DEXA scan ordered. If T-score indicates, start bisphosphonate.
+3. Schedule Shingrix series (2 doses, 2–6 months apart).
+4. Colonoscopy referral placed — gastroenterology.
+5. Continue current medications. Levothyroxine dose unchanged.
+6. Return in 12 months or sooner for concerns. Phone recall for DEXA results.
+
+All findings and preventive care items reviewed with patient. Patient expressed no concerns.
+
+Electronically signed: Dr. Emily Chen, MD

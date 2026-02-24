@@ -1,0 +1,30 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-03-19
+Patient ID: EC-0009
+Patient: Kevin T., 34M
+
+CHIEF COMPLAINT
+Routine physical — prior to starting a new job.
+
+PAST MEDICAL HISTORY: No significant history.
+MEDICATIONS: None. ALLERGIES: NKDA.
+
+PHYSICAL EXAMINATION
+Vitals: BP 122/78, HR 72, BMI 23.8, SpO2 99%
+General: Well-appearing young male, no distress
+Systems: Cardiovascular, respiratory, abdominal — all normal
+
+LABS (fasting)
+CBC, BMP, lipid panel, HbA1c, TSH: All within normal limits
+STI screen (requested by patient): HIV, RPR, Gonorrhea/Chlamydia urine — all negative
+
+IMMUNIZATIONS
+Tdap: up to date; Influenza: administered today; COVID: up to date
+Hepatitis B (series): Incomplete — only 2 doses given in childhood; booster dose given today,
+series to be completed in 6 months.
+
+ASSESSMENT: Healthy young adult male. Pre-employment physical — no restrictions.
+PLAN: Return in 12 months for annual exam. Complete hepatitis B series.
+
+Electronically signed: Dr. Emily Chen, MD

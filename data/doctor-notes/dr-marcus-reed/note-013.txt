@@ -1,0 +1,99 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-04-18
+Patient ID: MR-0013
+Patient: William G., 39M
+
+CHIEF COMPLAINT
+Routine physical — first visit to this practice.
+
+HISTORY OF PRESENT ILLNESS
+William is a 39-year-old male establishing care after relocating from another state. No
+acute complaints. States he is "healthy" and has not seen a physician in approximately
+5 years. He was previously told he had borderline blood pressure but was not started on
+medication. Reports occasional heartburn (1–2×/week) after large meals or alcohol. Sleeps
+well. Active lifestyle (runs 5K ×3/week).
+
+PAST MEDICAL HISTORY: No formal diagnoses.
+MEDICATIONS: None regular; ibuprofen PRN (rare); antacids PRN for heartburn.
+ALLERGIES: NKDA
+
+FAMILY HISTORY
+Father — hypertension, dyslipidemia (living, age 68); Mother — breast cancer (age 60);
+Maternal grandfather — MI (age 56); No siblings.
+
+SOCIAL HISTORY
+Married, no children. Software engineer (sedentary desk job, very active outside work).
+Non-smoker. Alcohol: 10–12 drinks/week (above recommended). No recreational drugs.
+Good diet (Mediterranean-style). Sleep 7–8 hours nightly.
+
+REVIEW OF SYSTEMS
+Constitutional: No weight change, no fatigue
+Cardiovascular: No chest pain, no palpitations, no dyspnea
+GI: Heartburn 1–2×/week (postprandial and with alcohol); no dysphagia; no rectal bleeding
+Dermatology: No skin changes
+Mental health: No depression, no anxiety; work-life balance adequate
+
+PHYSICAL EXAMINATION
+Vitals: BP 138/88 (repeat 136/86 after 5-min rest), HR 66 (athletic baseline), Wt 80 kg,
+        Ht 5'11", BMI 24.5
+General: Athletic build; well-appearing; no distress
+Cardiovascular: Bradycardia (HR 66, athletic); regular; no murmurs; pulses 2+ throughout
+Respiratory: Clear bilaterally
+Abdomen: Soft; mild epigastric tenderness on deep palpation; no organomegaly
+Skin: No suspicious lesions; 3 mm sebaceous cyst right upper back (benign, unchanged)
+Testicular: Normal bilateral
+Rectal: Deferred (offered for STI screen; patient declined)
+
+LABS (fasting, today)
+CBC: All normal
+BMP: Na 141, K 4.0, Cr 0.9, BUN 16, Glu 92 — normal
+Lipid panel: TC 204, LDL 138 (borderline elevated), HDL 62, TG 120
+HbA1c: 5.3% — normal
+TSH: 1.9 mU/L — normal
+Urine: Normal; no protein
+10-year ASCVD risk (calculated): 6.2% (intermediate risk — LDL 138, paternal CAD, BP 138/88)
+STI panel (offered — accepted): HIV, syphilis, gonorrhea/chlamydia — all negative
+
+CANCER SCREENING
+Colorectal: USPSTF recommends starting at age 45; discuss Cologuard stool DNA test or
+            colonoscopy. Patient prefers Cologuard — order placed.
+Testicular self-exam: Counselled.
+Skin: No current concerning lesions; dermatology referral if changes noted.
+Lung cancer (LDCT): Not indicated — non-smoker.
+
+IMMUNIZATIONS
+Influenza: Administered today
+Tdap: Last dose 7 years ago — Td booster administered today
+COVID: Up to date
+Hepatitis A and B: Not immune — begin series (Twinrix ×3 doses given high alcohol intake)
+HPV: Not completed (age 39 — discuss if clinically appropriate; counselled; patient declines)
+
+ASSESSMENT
+1. Stage 1 hypertension — confirmed on two separate readings today
+2. Borderline LDL elevated — intermediate cardiovascular risk (ASCVD 6.2%)
+3. Alcohol use — above recommended limits (10–12 drinks/week)
+4. GERD — intermittent; lifestyle-related
+5. Establishing care — no significant medical history identified; preventive care updated
+
+PLAN
+1. Hypertension: Lifestyle first — DASH diet, reduce sodium, maintain exercise, limit
+   alcohol. Home BP monitoring (goal BP log ×30 days). Return in 6 weeks — if still
+   Stage 1 hypertension on average of multiple readings and ASCVD >7.5%, discuss
+   pharmacotherapy. Do NOT start antihypertensive today (borderline, young, good lifestyle).
+2. Dyslipidemia: Lifestyle modification (diet, maintain exercise). ASCVD 6.2% —
+   statin not indicated at this threshold per ACC/AHA guidelines. Recheck lipids in 12 months.
+3. Alcohol: AUDIT score today = 9 (hazardous drinking). Brief motivational intervention
+   performed. Recommended reduction to ≤14 units/week. Discussed links between alcohol,
+   GERD, hypertension, and cancer risk. Patient receptive.
+4. GERD: Lifestyle modification: avoid late meals, alcohol, caffeine, spicy foods. Elevate
+   head of bed. Trial of omeprazole 20 mg daily ×4–8 weeks before meals if symptoms persist.
+   Return if dysphagia, weight loss, or alarm symptoms develop.
+5. Colorectal cancer screening: Cologuard ordered — instructions to follow by mail.
+6. Immunizations: Flu + Td given; Twinrix ×3 series started today.
+7. Establish follow-up care: 6 weeks for BP check; 12 months for annual visit.
+
+William was engaged and receptive. Particularly motivated by BP and family history of
+early cardiovascular disease. Written materials on DASH diet and alcohol reduction provided.
+
+Electronically signed: Dr. Marcus Reed, MD

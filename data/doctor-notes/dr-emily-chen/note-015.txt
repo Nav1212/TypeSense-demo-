@@ -1,0 +1,36 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-05-20
+Patient ID: EC-0015
+Patient: Harold J., 59M
+
+CHIEF COMPLAINT
+Medication refill and labs review.
+
+HISTORY OF PRESENT ILLNESS
+Harold is a 59-year-old male with well-controlled hypertension and hyperlipidemia
+presenting for routine medication refill and review of recent lab results ordered at
+his last visit 6 weeks ago. He feels well. No complaints. BP well-controlled at home
+(avg 118/74). No side effects from medications.
+
+MEDICATIONS: Lisinopril 20 mg daily, atorvastatin 20 mg nightly
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 120/76, HR 68, Wt 82 kg, BMI 26.3
+All systems: Within normal limits. No new findings.
+
+LABS (6 weeks ago)
+BMP: All normal; Cr 0.9, K 4.0
+Lipid panel: TC 172, LDL 88 (at goal <100), HDL 52, TG 118
+HbA1c: 5.5% (normal)
+
+ASSESSMENT
+1. Hypertension — well controlled
+2. Hyperlipidemia — LDL at goal on current statin dose
+
+PLAN
+Refill lisinopril 20 mg daily ×12 months. Refill atorvastatin 20 mg nightly ×12 months.
+Annual labs in 12 months. Return in 12 months for wellness visit or sooner if concerns arise.
+
+Electronically signed: Dr. Emily Chen, MD

@@ -1,0 +1,79 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-04-29
+Patient ID: EC-0013
+Patient: David S., 83M
+
+CHIEF COMPLAINT
+Increased confusion and decreased oral intake — family concerned.
+
+HISTORY OF PRESENT ILLNESS
+David is an 83-year-old male with moderate Alzheimer's dementia who is brought in by his
+adult son with a 5-day history of worsening confusion (above his baseline), decreased
+oral intake (refusing meals), one episode of incontinence (new), and low-grade fever.
+Per son: patient usually recognizes family members and participates in simple conversations
+but over the past several days has been largely unresponsive, occasionally agitated, and
+not sleeping at night. No fall. No vomiting. No diarrhea.
+
+PAST MEDICAL HISTORY
+- Alzheimer's dementia — moderate stage (CDR 2)
+- Type 2 diabetes — diet-controlled
+- Atrial fibrillation — on apixaban
+- BPH — on tamsulosin
+- Osteoporosis
+
+MEDICATIONS
+- Donepezil 10 mg daily
+- Memantine 10 mg BID
+- Apixaban 5 mg BID
+- Tamsulosin 0.4 mg daily
+- Alendronate 70 mg weekly
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 124/72, HR 82 (irregular), Temp 38.4°C, SpO2 95%, Wt 62 kg
+General: Elderly male; confused; minimally responsive to name; intermittently agitated
+HEENT: Mucous membranes dry; no oral lesions; mild temporal wasting
+Respiratory: Coarse crackles left base
+Abdomen: Soft, mild suprapubic tenderness, non-distended
+GU: Suprapubic tenderness on palpation; mild BPH-related bladder fullness on percussion
+Extremities: No edema; skin turgor reduced
+
+LABS
+CBC: WBC 14.8 (↑), Hgb 10.6, Plt 188
+BMP: Na 148 (↑↑ — hypernatremia; dehydration), K 3.6, Cr 1.4 (↑ from baseline 1.0)
+UA: WBC 50+, bacteria 4+, nitrites positive, leukocyte esterase 3+ → UTI confirmed
+Urine Cx: Sent (prior = E. coli, amoxicillin-resistant)
+Chest X-ray: Left lower lobe opacity — consistent with pneumonia
+Procalcitonin: 2.8 ng/mL (elevated — bacterial infection)
+Blood cultures: ×2 sent
+
+ASSESSMENT
+1. Delirium (acute on chronic) — superimposed on moderate Alzheimer's dementia
+   Dual precipitants:
+   a. Urinary tract infection (UTI) — UA and UA culture positive (pending sensitivities)
+   b. Left lower lobe community-acquired pneumonia (CAP)
+2. Dehydration with hypernatremia — poor oral intake ×5 days
+3. Acute kidney injury — likely prerenal
+
+PLAN
+1. Admit to medicine floor.
+2. IV hydration: NS 0.9% at 100 mL/hr; correct hypernatremia slowly over 48 hours
+   (target Na correction ≤0.5 mEq/hr to avoid cerebral edema).
+3. Empiric antibiotics — ceftriaxone 1 g IV Q24H (covers UTI and CAP pending cultures;
+   holds for allergy: NKDA). Adjust when sensitivities return.
+4. Delirium management: Minimize stimulation; reorientation; familiar family voices
+   encouraged; avoid antipsychotics unless severe agitation threatens safety; bed alarms.
+5. PO and IV nutrition support — dietitian consult; consider nasogastric feeding if
+   unable to take in >50% needs by day 3.
+6. Goals of care discussion with son and daughter — documented in chart (POLST: DNR/DNI,
+   comfort-focused, consistent with prior patient-expressed wishes per POA document).
+7. Hold tamsulosin temporarily (orthostatic hypotension risk).
+8. Palliative care consult — to assist with symptom management and family communication.
+9. Follow-up with Dr. Chen daily while inpatient.
+
+Son counselled. Distressed but grateful for clear communication. GOC document to be
+updated by end of day.
+
+Electronically signed: Dr. Emily Chen, MD

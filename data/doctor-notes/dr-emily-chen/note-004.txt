@@ -1,0 +1,98 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-02-01
+Patient ID: EC-0004
+Patient: Robert A., 70M
+
+CHIEF COMPLAINT
+Worsening shortness of breath and leg swelling over the past 2 weeks.
+
+HISTORY OF PRESENT ILLNESS
+Robert is a 70-year-old male with a known history of ischemic cardiomyopathy (EF 35%)
+and chronic systolic heart failure presenting with a 2-week history of worsening dyspnea
+and bilateral leg swelling. He reports gaining approximately 4 kg over the past 10 days
+(per home scale). He is experiencing orthopnea (requires 3 pillows) and paroxysmal
+nocturnal dyspnea approximately 3 nights per week. He denies chest pain. He admits to
+dietary indiscretion over the holidays (high-sodium diet). He has been compliant with his
+furosemide 40 mg daily but ran out of carvedilol 4 days ago.
+
+PAST MEDICAL HISTORY
+- Ischemic cardiomyopathy, chronic systolic HFrEF (EF 35%, per echo 6 months ago)
+- Coronary artery disease — 3-vessel CABG (2016)
+- Hypertension
+- Type 2 diabetes mellitus
+- Atrial fibrillation — on anticoagulation
+
+MEDICATIONS
+- Furosemide 40 mg daily (currently taking)
+- Carvedilol 12.5 mg BID (ran out 4 days ago)
+- Sacubitril/valsartan 97/103 mg BID
+- Spironolactone 25 mg daily
+- Dapagliflozin 10 mg daily
+- Warfarin (INR target 2–3)
+- Metformin 500 mg BID
+- Atorvastatin 40 mg nightly
+
+ALLERGIES: ACE inhibitors (angioedema — switched to ARNi)
+
+SOCIAL HISTORY
+Retired. Non-smoker (quit 15 years ago). Lives with wife. No alcohol.
+
+REVIEW OF SYSTEMS
+Constitutional: Weight gain 4 kg in 10 days, fatigue
+Cardiovascular: Dyspnea on exertion, orthopnea, PND, bilateral ankle/leg swelling, no chest pain
+Respiratory: Mild cough (non-productive) at night
+GI: Decreased appetite
+GU: Decreased urine output last 2 days
+Neurological: No syncope, no pre-syncope
+
+PHYSICAL EXAMINATION
+Vitals: BP 108/70 mmHg, HR 88 bpm (irregularly irregular), RR 18/min, SpO2 93% RA,
+        Temp 36.9°C, Wt 89 kg (usual weight ~85 kg)
+General: Appears mildly distressed, sitting forward, using accessory muscles mildly
+HEENT: JVD estimated 14 cm at 45° elevation
+Cardiovascular: Irregularly irregular rhythm; S3 gallop present; 2/6 holosystolic murmur
+                at apex (consistent with MR)
+Respiratory: Bilateral crackles at bases (1/3 up); mild dullness to percussion at right base
+Abdomen: Mild RUQ tenderness on palpation; hepatojugular reflex positive
+Extremities: 3+ pitting edema bilateral lower extremities to mid-thigh
+
+LABS (urgent)
+BMP: Na 132 (low), K 4.6, Cr 1.6 (baseline 1.1), BUN 34, Glu 144
+BNP: 1,820 pg/mL (prior baseline ~420 pg/mL)
+CBC: WBC 8.1, Hgb 11.2, Plt 204
+INR: 2.4 (therapeutic)
+Mg: 1.8 mEq/L (borderline low)
+Troponin I: 0.04 ng/mL (0.03–0.05 — borderline, trending)
+
+IMAGING
+Portable CXR: Cardiomegaly, bilateral perihilar haziness, small right pleural effusion
+              — consistent with pulmonary edema / decompensated HF
+Echo (prior, 6 months ago): EF 35%, diastolic dysfunction grade II, moderate MR, dilated LV
+
+ASSESSMENT
+1. Acute decompensated heart failure (ADHF) — precipitated by dietary non-compliance
+   and carvedilol discontinuation
+2. Acute kidney injury — likely cardiorenal syndrome type 1 (Cr 1.6 from baseline 1.1)
+3. Mild hyponatremia — dilutional
+4. Atrial fibrillation — rate controlled (HR 88)
+5. Borderline troponin elevation — monitor trend
+
+PLAN
+1. Admit to telemetry unit for IV diuresis (furosemide 80 mg IV BID), fluid restriction
+   1.5 L/day, low-sodium diet.
+2. Resume carvedilol 6.25 mg BID (restart at lower dose) once hemodynamically stable.
+3. Hold ACE/ARB — hold sacubitril/valsartan until AKI resolves and Cr returns to baseline.
+4. Hold metformin (AKI).
+5. Serial BMP Q8H — monitor renal function and electrolytes during diuresis.
+6. Troponin Q6H ×3 — assess for NSTEMI (if trending up, cardiology consult and ACS workup).
+7. Strict I&O, daily weights. Target net negative 1–1.5 L/day.
+8. IV magnesium replacement (2 g IV now).
+9. Cardiology consulted — agrees with management plan.
+10. Case management consult for medication assistance (carvedilol refill barrier).
+11. Discharge planning: dietary education, home health nursing for weight monitoring,
+    HF clinic follow-up within 7 days of discharge.
+
+Family at bedside. Plan discussed with patient and wife. Patient agreeable to admission.
+
+Electronically signed: Dr. Emily Chen, MD

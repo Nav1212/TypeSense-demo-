@@ -1,0 +1,50 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-02-20
+Patient ID: EC-0006
+Patient: James W., 52M
+
+CHIEF COMPLAINT
+Sharp right flank pain with nausea, onset this morning.
+
+HISTORY OF PRESENT ILLNESS
+52-year-old male with sudden-onset right flank pain radiating to the groin, rated 8/10,
+colicky in nature, with associated nausea and one episode of emesis. No fever. Hematuria
+noted (urine appears pink/reddish). Denies dysuria or urinary frequency. First similar
+episode. Drinks ~1.5 L of fluid daily. Diet high in animal protein. BMI 29.
+
+PHYSICAL EXAMINATION
+Vitals: BP 138/84, HR 96, Temp 37.1°C, SpO2 98%
+General: In moderate distress, writhing
+Abdomen: Soft; right CVA tenderness to percussion; no rebound
+Genitourinary: No inguinal hernia; testes normal
+
+LABS
+UA: Hematuria (3+ blood), no WBC, no bacteria, SG 1.022, pH 5.8
+BMP: Cr 1.1, BUN 22, normal electrolytes
+CBC: Normal; no leukocytosis
+
+IMAGING
+CT abdomen/pelvis without contrast:
+  Right ureteral calculus 5 mm at ureteropelvic junction
+  Mild right hydronephrosis
+  No perinephric stranding suggesting infection
+
+ASSESSMENT
+1. Nephrolithiasis — 5 mm right ureteral stone, UPJ level; mild right hydronephrosis
+2. No evidence of infection or obstruction requiring urgent intervention
+
+PLAN
+1. Ketorolac 30 mg IV × 1 dose now for analgesia; tamsulosin 0.4 mg daily (medical
+   expulsive therapy — facilitates passage of stones ≤10 mm).
+2. Oral hydration encouraged 2–3 L/day; strain urine to collect stone for analysis.
+3. Oxycodone 5 mg Q6H PRN for breakthrough pain (short course ×5 days).
+4. Return to ED if fever >38.3°C, inability to tolerate fluids, worsening obstruction.
+5. Urology referral if stone does not pass within 4–6 weeks.
+6. Follow-up with urology and Dr. Chen in 2 weeks.
+7. Dietary counseling: reduce animal protein, increase fluid intake to 2.5 L/day,
+   reduce oxalate foods if stone found to be calcium oxalate.
+
+Patient discharged home in stable, improved condition. Written discharge instructions given.
+
+Electronically signed: Dr. Emily Chen, MD

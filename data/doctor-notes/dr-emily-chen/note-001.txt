@@ -1,0 +1,90 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-01-08
+Patient ID: EC-0001
+Patient: Margaret H., 62F
+
+CHIEF COMPLAINT
+Persistent fatigue and mild shortness of breath on exertion for the past 3 weeks.
+
+HISTORY OF PRESENT ILLNESS
+Margaret is a 62-year-old female with a history of type 2 diabetes mellitus (T2DM) and
+hypertension who presents with a 3-week history of progressive fatigue and exertional
+dyspnea. She reports she can no longer climb two flights of stairs without stopping to rest.
+No chest pain, no palpitations, no orthopnea. She denies fever, chills, or recent upper
+respiratory infection. She notes occasional bilateral ankle swelling at end of day.
+Last HbA1c was 7.8% (3 months ago). She is compliant with metformin and lisinopril.
+
+PAST MEDICAL HISTORY
+- Type 2 diabetes mellitus (diagnosed 2011)
+- Hypertension (diagnosed 2009)
+- Hyperlipidemia (diagnosed 2015)
+- Appendectomy (1988)
+
+MEDICATIONS
+- Metformin 1000 mg BID
+- Lisinopril 10 mg daily
+- Atorvastatin 40 mg nightly
+- Aspirin 81 mg daily
+
+ALLERGIES: Penicillin (rash)
+
+FAMILY HISTORY
+Father — coronary artery disease, died age 71
+Mother — type 2 diabetes, alive age 87
+Brother — hypertension
+
+SOCIAL HISTORY
+Non-smoker. Occasional wine (1–2 glasses/week). Retired school teacher. Lives with husband.
+
+REVIEW OF SYSTEMS
+Constitutional: Fatigue (+), weight stable
+Cardiovascular: Exertional dyspnea (+), ankle edema (+), no chest pain, no palpitations
+Respiratory: Dyspnea on exertion (+), no cough, no wheezing
+GI: No nausea, no abdominal pain, bowel habits normal
+GU: Nocturia ×2, no dysuria
+Musculoskeletal: No joint pain
+Neurological: No headache, no dizziness
+
+PHYSICAL EXAMINATION
+Vitals: BP 148/88 mmHg, HR 78 bpm (regular), RR 14/min, Temp 36.8°C, SpO2 96% RA, Wt 82 kg
+General: Well-appearing, mildly fatigued
+HEENT: Conjunctivae slightly pale; no scleral icterus
+Neck: No JVD, no lymphadenopathy
+Cardiovascular: Regular rate and rhythm; S1/S2 present; no murmurs, rubs, or gallops
+Respiratory: Clear to auscultation bilaterally; no wheezes or crackles
+Abdomen: Soft, non-tender; no hepatosplenomegaly
+Extremities: 1+ pitting edema bilateral ankles; peripheral pulses 2+ throughout
+Neurological: Alert and oriented ×3
+
+DIAGNOSTIC RESULTS
+CBC (today): Hgb 10.1 g/dL, MCV 72 fL, MCH 23 pg, WBC 7.2 K/μL, Plt 245 K/μL
+BMP: Na 138, K 4.1, Cr 1.0, BUN 18, Glu 162 mg/dL
+Iron studies: Serum Fe 38 μg/dL (low), TIBC 420 μg/dL (elevated), Ferritin 8 ng/mL (low)
+Reticulocyte count: 1.8%
+BNP: 142 pg/mL (mildly elevated)
+EKG: NSR, no ST changes, no LVH
+
+ASSESSMENT
+1. Iron-deficiency anemia — likely from occult blood loss or dietary insufficiency
+2. Hypertension — suboptimally controlled (BP 148/88)
+3. Type 2 diabetes — fair control (HbA1c 7.8% three months ago)
+4. Mild volume overload — possible early cardiac decompensation vs. medication-related (CCB not on board; may be lisinopril-related edema)
+
+PLAN
+1. Iron-deficiency anemia: Initiate ferrous sulfate 325 mg TID with vitamin C. Order stool
+   guaiac ×3. Refer to gastroenterology for colonoscopy (due for routine screening; occult
+   loss workup). Repeat CBC in 6 weeks.
+2. Hypertension: Increase lisinopril to 20 mg daily. Dietary counseling (DASH diet). Recheck
+   BP in 4 weeks or sooner if symptomatic.
+3. Diabetes: Repeat HbA1c today. Consider adding SGLT2 inhibitor (empagliflozin) given
+   cardiovascular risk profile — will review with patient.
+4. Edema/volume overload: Echocardiogram ordered to evaluate cardiac function. Low-salt diet
+   reinforced.
+5. Repeat BMP in 2 weeks after lisinopril dose change.
+6. Follow-up: 4–6 weeks or sooner as needed.
+
+Patient verbalized understanding of the plan. Questions answered. Consent obtained for
+additional labs.
+
+Electronically signed: Dr. Emily Chen, MD

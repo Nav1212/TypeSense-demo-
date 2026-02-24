@@ -1,0 +1,88 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-02-12
+Patient ID: EC-0005
+Patient: Linda P., 38F
+
+CHIEF COMPLAINT
+Fatigue, hair thinning, weight gain, cold intolerance — 4-month history.
+
+HISTORY OF PRESENT ILLNESS
+Linda presents with a 4-month history of progressive fatigue, hair thinning, unintentional
+weight gain (~5 kg), cold intolerance, constipation, and mild cognitive slowing
+("brain fog"). She denies chest pain, palpitations, or dyspnea. She notes dry skin and
+mild puffiness around her eyes in the morning. Her menstrual cycles have become slightly
+heavier. She recently noted that she falls asleep easily during daytime and feels
+unrefreshed in the morning despite 8+ hours of sleep.
+
+PAST MEDICAL HISTORY
+No significant PMHx. No prior thyroid issues. One prior pregnancy — normal delivery.
+
+MEDICATIONS: Prenatal vitamin (taking for hair/nails), no prescription medications
+ALLERGIES: NKDA
+
+FAMILY HISTORY
+Mother — Hashimoto's thyroiditis; Maternal aunt — hypothyroidism
+
+SOCIAL HISTORY
+Married, two children. Works as a software developer (sedentary desk job). Non-smoker.
+No alcohol. Moderate caffeine (2 cups coffee/day).
+
+REVIEW OF SYSTEMS
+Constitutional: Fatigue (+++), weight gain 5 kg, cold intolerance
+Cardiovascular: No chest pain, no palpitations — HR subjectively slower
+Respiratory: No dyspnea
+GI: Constipation (BM every 3–4 days)
+GU: Menorrhagia ×3 cycles, regular intervals
+Skin: Dry skin, hair thinning diffuse
+Neurological: Cognitive slowing, slow speech subjectively
+Psychiatric: Mild low mood — denies SI
+
+PHYSICAL EXAMINATION
+Vitals: BP 108/68, HR 58 bpm, Temp 36.2°C, Wt 74 kg, BMI 27.4
+General: Mildly fatigued-appearing; speech rate normal; no goiter visible
+HEENT: Periorbital non-pitting edema mild; hair diffusely thin; outer 1/3 of eyebrows
+        sparse (lateral eyebrow thinning — Queen Anne's sign)
+Neck: Thyroid mildly enlarged, non-tender, smooth, no nodules palpable
+Cardiovascular: Bradycardia (HR 58), regular; heart sounds normal
+Skin: Dry, cool to touch; no pretibial myxedema
+Reflexes: Delayed relaxation phase — biceps and patellar (classic hypothyroid sign)
+Neurological: Alert, oriented ×3; concentration mildly impaired on digit span
+
+DIAGNOSTIC RESULTS
+TSH: 18.4 mU/L (↑↑ — reference 0.4–4.0)
+Free T4: 0.6 ng/dL (↓ — reference 0.8–1.8)
+Anti-TPO antibodies: 412 IU/mL (↑↑ — reference <35) — strongly positive
+Anti-thyroglobulin antibodies: 285 IU/mL (↑)
+CBC: Hgb 11.6 (mild anemia), MCV 88, WBC 6.8, Plt 220
+BMP: Normal
+Lipid panel: TC 234 (elevated), LDL 158 (elevated), HDL 52, TG 142
+Ferritin: 22 ng/mL (low-normal)
+
+IMAGING
+Thyroid ultrasound (ordered today): Pending — to evaluate gland echogenicity and nodules
+
+ASSESSMENT
+1. Primary hypothyroidism — secondary to Hashimoto's thyroiditis (confirmed by elevated
+   anti-TPO and anti-TG antibodies, low FT4, markedly elevated TSH)
+2. Secondary hyperlipidemia — likely metabolic consequence of hypothyroidism
+3. Mild iron deficiency — contributing to fatigue and menorrhagia
+4. Menorrhagia — possibly related to hypothyroidism-induced anovulation; GYN to evaluate
+
+PLAN
+1. Initiate levothyroxine 75 mcg daily (PO, empty stomach, 30–60 min before eating).
+   Titrate to target TSH 1–2.5 mU/L. Avoid taking with calcium, iron, antacids (absorption
+   interference).
+2. Recheck TSH and free T4 in 6–8 weeks after starting levothyroxine.
+3. Do not treat hyperlipidemia now — re-assess lipids after thyroid is optimized (often
+   normalizes with euthyroid state).
+4. Ferrous sulfate 325 mg daily; separate from levothyroxine by 4 hours.
+5. Refer to GYN for menorrhagia evaluation once thyroid treated.
+6. Patient counseled: Hashimoto's is an autoimmune condition — lifelong thyroid replacement
+   likely required. Symptoms should improve over 4–8 weeks of treatment.
+7. Thyroid ultrasound results — will contact patient when available.
+8. Follow-up: 6–8 weeks.
+
+Patient was relieved to have a diagnosis. Extensive education provided. All questions answered.
+
+Electronically signed: Dr. Emily Chen, MD

@@ -1,0 +1,57 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-04-11
+Patient ID: MR-0012
+Patient: Isabelle M., 42F
+
+CHIEF COMPLAINT
+Rash on trunk and extremities — 4 days.
+
+HISTORY OF PRESENT ILLNESS
+Isabelle is a 42-year-old female presenting with a 4-day history of a spreading
+pruritic rash beginning on her trunk and spreading to her extremities. She initially
+thought it was an allergic reaction to a new laundry detergent (switched back; no
+improvement). She denies fever, joint pain, oral ulcers, or photosensitivity. She
+reports a recent upper respiratory illness approximately 2 weeks ago (sore throat,
+mild fever, resolved spontaneously). No new medications. No new food exposures.
+No recent travel. She is not pregnant. She notes the rash is intensely itchy, especially
+at night. No similar history previously.
+
+PAST MEDICAL HISTORY: No significant history.
+MEDICATIONS: Cetirizine 10 mg daily (started 2 days ago — minimal relief); ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 118/74, HR 76, Temp 36.8°C
+General: Well-appearing; mild discomfort from pruritus
+Skin:
+  - Trunk (chest, abdomen, back): Multiple salmon-pink plaques 1–3 cm with collarette
+    of fine scale at the periphery (inward-pointing "cigarette paper" scale)
+  - Arms and thighs: Smaller similar lesions following skin tension lines (Langer's lines)
+  - Notable larger oval plaque (4×5 cm) on left flank — preceded smaller lesions ("herald patch")
+  - Face, palms, soles: Spared
+  - No vesicles; no pustules; no petechiae; no mucosal involvement
+Lymph nodes: Mild bilateral axillary lymphadenopathy (soft, mobile, non-tender)
+Oropharynx: No oral ulcers; no exudate
+
+ASSESSMENT
+1. Pityriasis rosea — classic presentation: herald patch, salmon-pink collarette plaques
+   in Christmas tree pattern following Langer's lines, post-URI onset (associated with
+   HHV-6/7 reactivation), sparing of face, palms, soles
+2. Must rule out secondary syphilis (can mimic pityriasis rosea, involves palms/soles;
+   syphilis in this case: palms/soles spared → less likely but screening warranted)
+
+PLAN
+1. Reassure: Pityriasis rosea is self-limiting — resolves in 6–12 weeks with no treatment.
+2. RPR/VDRL sent (to exclude secondary syphilis — standard of care even with classic PR).
+3. Symptomatic treatment: Cetirizine 10 mg daily (continue); menthol 0.5% cream PRN
+   for itch; cool oatmeal baths for itch relief.
+4. UV phototherapy (narrowband UVB) — if severe or persistent beyond 8 weeks, refer
+   dermatology. Not indicated at this time.
+5. Avoid hot showers/baths (can worsen pruritus).
+6. Reassure: Not contagious person-to-person; no isolation needed.
+7. Follow-up: 4 weeks or sooner if rash worsens, fever develops, or RPR returns positive.
+8. If syphilis serology positive — refer immediately to GUM/STI clinic for treatment.
+
+Patient reassured. RPR results to be communicated by phone.
+
+Electronically signed: Dr. Marcus Reed, MD

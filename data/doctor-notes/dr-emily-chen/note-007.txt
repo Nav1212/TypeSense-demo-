@@ -1,0 +1,49 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-03-04
+Patient ID: EC-0007
+Patient: Alice N., 29F
+
+CHIEF COMPLAINT
+Recurrent headaches, 3 months.
+
+HISTORY OF PRESENT ILLNESS
+Alice presents with a 3-month history of recurrent headaches occurring 2–3 times per week.
+She describes them as unilateral (left-sided), pulsating, moderate-to-severe in intensity
+(6–7/10), lasting 4–12 hours when untreated, associated with nausea and photophobia but
+no phonophobia. She reports a premonitory visual aura (zigzag lights in peripheral vision)
+lasting 15–20 minutes before about half of her headaches. Headaches are exacerbated by
+physical activity. She finds relief in a dark, quiet room. OTC ibuprofen provides partial
+relief. No neck stiffness, no fever, no focal neurological deficits. She denies positional
+component. Sleep disturbance reported.
+
+MEDICATIONS: Ibuprofen 400 mg PRN (using 4–5×/week — concern for medication overuse)
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 118/72, HR 70, Temp 36.7°C, Wt 62 kg
+Neurological: CNII-XII intact; visual fields normal to confrontation; no papilledema on
+              fundoscopy; gait normal; no focal deficits; no meningismus
+
+ASSESSMENT
+1. Migraine with aura — classic presentation; meets ICHD-3 criteria
+2. Possible medication overuse headache (MOH) — ibuprofen use ≥10–15 days/month
+
+PLAN
+1. Acute treatment: Sumatriptan 50 mg PO at headache onset (can repeat ×1 after 2 hours
+   if insufficient). Limit triptan use to ≤10 days/month. Discontinue ibuprofen overuse
+   (abrupt withdrawal may worsen headache for 1–2 weeks — counselled).
+2. Preventive therapy: Topiramate 25 mg nightly ×2 weeks, then 25 mg BID. Aim to reduce
+   frequency ≥50%. Alternative: propranolol 40 mg BID (discussed both; patient prefers
+   topiramate as she wants weight-neutral option).
+3. Trigger diary: Identify personal triggers (stress, sleep deprivation, menstrual cycle,
+   red wine/caffeine). Sleep hygiene counselled.
+4. Referral to neurology if inadequate response to treatment in 3 months.
+5. MRI brain with/without contrast ordered — to exclude secondary cause given relatively
+   new onset and high frequency; low clinical suspicion but appropriate given history.
+6. Follow-up: 6–8 weeks.
+
+Patient counselled on triptan pharmacology and what to expect with preventive medications.
+Understood. Appointment confirmed.
+
+Electronically signed: Dr. Emily Chen, MD

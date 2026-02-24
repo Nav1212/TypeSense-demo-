@@ -1,0 +1,60 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-04-15
+Patient ID: EC-0012
+Patient: Patricia V., 58F
+
+CHIEF COMPLAINT
+Chest tightness and palpitations, episodic — 2 months.
+
+HISTORY OF PRESENT ILLNESS
+Patricia is a 58-year-old female with hypertension and hypothyroidism who reports a
+2-month history of episodic chest tightness and palpitations. Episodes occur 3–4 times
+per week, last 2–10 minutes, and resolve spontaneously. She denies syncope or presyncope.
+She notes associated diaphoresis and mild dyspnea during episodes. The episodes seem
+unrelated to exertion — occurring at rest as well. She denies jaw pain or arm pain. Her
+levothyroxine was increased 3 months ago by her prior PCP.
+
+MEDICATIONS
+- Levothyroxine 125 mcg daily (recently increased from 100 mcg)
+- Lisinopril 10 mg daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 142/86, HR 102 bpm (regular), Temp 36.9°C
+General: Mildly anxious appearing; no diaphoresis at rest
+Thyroid: Mildly enlarged, smooth, non-tender
+Cardiovascular: Tachycardia (HR 102); regular; no murmurs
+Eyes: Mild lid lag; no exophthalmos
+Tremor: Fine tremor of outstretched hands
+
+DIAGNOSTIC RESULTS
+TSH: 0.08 mU/L (↓↓ — suppressed; reference 0.4–4.0)
+Free T4: 2.4 ng/dL (↑↑ — reference 0.8–1.8)
+Free T3: 5.8 pg/mL (↑ — reference 2.3–4.2)
+Anti-TPO: 88 IU/mL (mildly elevated — consistent with Hashimoto's)
+EKG: Sinus tachycardia at 104 bpm; no ST changes; no Delta waves
+CBC: Normal
+BMP: Normal
+
+ASSESSMENT
+1. Iatrogenic hyperthyroidism — over-replacement with levothyroxine (suppressed TSH,
+   elevated FT4/FT3); precipitating palpitations, tachycardia, lid lag, tremor
+2. Hypertension — suboptimally controlled
+
+PLAN
+1. Reduce levothyroxine to 100 mcg daily (prior dose). Counsel patient not to stop abruptly.
+2. Recheck TSH/FT4 in 6 weeks. Target TSH 1.0–2.5 for Hashimoto's patient.
+3. Atenolol 25 mg daily — short-term beta-blocker for tachycardia/palpitations until
+   thyroid levels normalize. Wean off once euthyroid.
+4. Cardiology referral deferred — likely to resolve with thyroid optimization. If EKG
+   changes occur or symptoms persist, will refer.
+5. Holter monitor ×24 hours — to characterize palpitation episodes while symptomatic.
+6. Increase lisinopril to 20 mg daily for BP.
+7. Follow-up: 6 weeks with labs.
+
+Patient counseled on importance of not adjusting levothyroxine dose independently.
+Understood. Written instructions provided.
+
+Electronically signed: Dr. Emily Chen, MD

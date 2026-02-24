@@ -1,0 +1,98 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-03-28
+Patient ID: EC-0010
+Patient: Nancy F., 66F
+
+CHIEF COMPLAINT
+Elevated blood sugar readings at home, polyuria, polydipsia — 3 weeks.
+
+HISTORY OF PRESENT ILLNESS
+Nancy is a 66-year-old female with longstanding type 2 diabetes (diagnosed 2005) who
+presents with a 3-week history of worsening glycemic control. Her home blood sugars have
+been consistently 250–320 mg/dL fasting and up to 400 mg/dL postprandial. She reports
+polyuria, polydipsia, and intermittent blurred vision. She has not made dietary changes.
+She does not report fever. However, she does report a painful ingrown toenail on the right
+great toe that has been present for 2 weeks and has become increasingly red and swollen.
+She was hesitant to seek care for the toe earlier. She denies nausea, vomiting, abdominal
+pain, or alteration in consciousness.
+
+PAST MEDICAL HISTORY
+- Type 2 diabetes mellitus — on glipizide and metformin
+- Hypertension — on amlodipine 5 mg daily
+- Peripheral neuropathy (diabetic)
+- Chronic kidney disease stage 2 (eGFR ~72)
+- Diabetic retinopathy (mild, stable — per ophthalmology 12 months ago)
+
+MEDICATIONS
+- Glipizide 10 mg BID
+- Metformin 1000 mg BID
+- Amlodipine 5 mg daily
+- Pregabalin 75 mg BID (neuropathic pain)
+- Aspirin 81 mg daily
+
+ALLERGIES: Sulfa drugs (hives)
+
+SOCIAL HISTORY: Retired. Non-smoker. No alcohol. Lives alone. Daughter checks in daily.
+
+REVIEW OF SYSTEMS
+Constitutional: Fatigue, weight loss ~2 kg over 3 weeks
+Cardiovascular: No chest pain, no palpitations
+Eyes: Intermittent blurred vision (worsened with elevated BG)
+GU: Polyuria, polydipsia
+Musculoskeletal: Right great toe pain and swelling
+Skin: No rash other than toe infection
+
+PHYSICAL EXAMINATION
+Vitals: BP 136/82, HR 88, Temp 37.6°C (mildly elevated), Wt 74 kg
+General: Mildly ill-appearing; no acute distress
+HEENT: Mucous membranes dry; fundoscopy deferred (referred to ophtho)
+Cardiovascular: RRR, no murmurs
+Respiratory: Clear bilaterally
+Abdomen: Soft, non-tender
+Extremities: Right foot — right great toe warm, erythematous, swollen; purulent exudate
+             at lateral nail fold consistent with paronychia/ingrown nail; surrounding
+             erythema 1–2 cm from nail; no lymphangitic streaking; dorsal pedal pulse
+             2+ bilaterally; monofilament testing — diminished protective sensation bilateral
+             plantar surfaces (consistent with peripheral neuropathy)
+Neurological: Alert, oriented ×3
+
+DIAGNOSTIC RESULTS
+POC glucose: 318 mg/dL
+HbA1c (today): 11.2% (was 8.4% six months ago — significant deterioration)
+BMP: Na 133 (low-normal), K 3.8, Cr 1.2, BUN 22, CO2 22 (bicarbonate mildly low)
+Urine ketones (dipstick): 1+ (mild)
+UA: Glucose 4+, trace protein; no WBC; SG 1.028
+Wound swab (from toe): Sent to lab — pending
+
+ASSESSMENT
+1. Acute decompensation of type 2 diabetes — likely precipitated by paronychia/infection
+   (stress hyperglycemia + underlying poor baseline control)
+2. Right toe paronychia with possible early cellulitis — diabetic foot infection (mild to
+   moderate; not limb-threatening at this time)
+3. Mild ketonuria — monitor for progression; currently not in DKA
+4. Dehydration — hypo-osmolar hyperglycemia
+5. Peripheral neuropathy — diminished protective sensation (high-risk diabetic foot)
+
+PLAN
+1. IV saline (NS 0.9% at 125 mL/hr ×2 L over next 4 hours) — assess hydration then
+   transition to PO if tolerating. Consider brief observation rather than full admission.
+2. Insulin sliding scale initiated; hold glipizide while on insulin protocol.
+3. Diabetic foot infection: Amoxicillin-clavulanate 875/125 mg BID ×10 days (NSTI
+   ruled out; covers typical skin flora including S. aureus). Podiatry referral placed
+   for same-week appointment for nail/wound management.
+4. Endocrinology referral — to optimize diabetes management regimen; discuss basal
+   insulin initiation (poor response to oral agents alone).
+5. Ophtho referral — annual diabetic eye exam due.
+6. Podiatry referral — quarterly diabetic foot care.
+7. Diabetes education (DSMES) program referral — reinforce glucose monitoring,
+   foot care, sick-day management.
+8. Wound care instructions given; patient instructed to inspect feet daily.
+9. Return for repeat labs and wound check in 5 days.
+10. Prescriptions: amoxicillin-clavulanate, new glipizide 10 mg BID resume after
+    infection resolved, continuing metformin (eGFR 72 — acceptable).
+
+Patient and daughter educated extensively on foot care, glucose monitoring, and importance
+of early wound presentation. Patient expressed understanding.
+
+Electronically signed: Dr. Emily Chen, MD

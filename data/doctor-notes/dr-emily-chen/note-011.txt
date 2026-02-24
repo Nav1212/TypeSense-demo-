@@ -1,0 +1,72 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-04-05
+Patient ID: EC-0011
+Patient: Brian L., 45M
+
+CHIEF COMPLAINT
+Follow-up for alcohol use disorder — 2 months sober.
+
+HISTORY OF PRESENT ILLNESS
+Brian is a 45-year-old male with alcohol use disorder (AUD) who presents for follow-up
+having maintained sobriety for approximately 8 weeks following participation in an
+intensive outpatient program (IOP). He reports feeling significantly better — improved
+sleep, better concentration at work, and reconciled with his wife. He denies any alcohol
+use in the past 8 weeks (confirmed by AUDIT-C 0/12 today). No withdrawal symptoms.
+He does report occasional alcohol cravings in social situations (work events). He is
+currently attending AA meetings 3×/week and has a sponsor.
+
+PAST MEDICAL HISTORY
+- Alcohol use disorder (AUD) — previously drinking 6–10 drinks/day ×8 years
+- Hypertension
+- Alcoholic hepatitis (recovered, 2 years ago)
+- Major depressive disorder — in partial remission (on sertraline)
+- GERD
+
+MEDICATIONS
+- Naltrexone 50 mg daily (started at IOP discharge — good adherence)
+- Sertraline 100 mg daily
+- Omeprazole 20 mg daily
+- Amlodipine 5 mg daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 128/80, HR 72, Wt 84 kg (gained 4 kg since last visit — improved nutrition)
+General: Well-appearing; engaged; affect brighter than prior visit
+HEENT: No scleral icterus; no palmar erythema
+Abdomen: Soft; mild hepatomegaly, non-tender
+Neurological: No tremor; normal gait; MMSE normal; no Wernicke signs
+
+LABS
+LFTs: AST 44 (↑, improving from 96 last visit), ALT 38 (improving from 78), Alk Phos 88
+Bilirubin: 0.8 (normal)
+GGT: 62 (↓ from 180 — significant improvement)
+MCV: 92 (normalizing from 101 — macrocytosis resolving)
+BMP: Normal
+Vitamin B1 (thiamine): 78 nmol/L (low-normal — previously deficient)
+
+ASSESSMENT
+1. Alcohol use disorder — in sustained remission (8 weeks); making excellent progress
+2. Improving alcoholic liver disease — LFT trend positive
+3. Thiamine — borderline low; previously deficient
+4. Hypertension — well-controlled on amlodipine
+5. Depression — partial remission, stable on sertraline
+
+PLAN
+1. Continue naltrexone 50 mg daily — excellent evidence base for AUD relapse prevention.
+   Reinforce its continued use even if cravings arise.
+2. Continue AA attendance and sponsor relationship.
+3. Thiamine 100 mg daily (supplement) — continue ×3 months, then recheck.
+4. Sertraline dose unchanged (mood stable).
+5. Repeat LFTs in 3 months — monitor liver recovery trajectory.
+6. CAGE questionnaire at every visit. AUDIT-C screening quarterly.
+7. Discuss acamprosate as adjunct to naltrexone if cravings increase.
+8. Discussed social triggers — recommend non-alcoholic alternatives at work events,
+   have a non-drinking "anchor person" at social gatherings.
+9. Refer to nutritionist — improving diet quality.
+10. Follow-up: 6 weeks.
+
+Patient appears motivated and engaged. Family support strong. Prognosis positive.
+
+Electronically signed: Dr. Emily Chen, MD

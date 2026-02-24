@@ -1,0 +1,73 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-05-02
+Patient ID: MR-0015
+Patient: Jake R., 22M
+
+CHIEF COMPLAINT
+Sore throat, fever, fatigue — 5 days.
+
+HISTORY OF PRESENT ILLNESS
+Jake is a 22-year-old male college student presenting with a 5-day history of severe
+sore throat, fever (max 39.4°C at home), fatigue, and difficulty swallowing. He reports
+the sore throat is the worst he has ever experienced. He notes bilateral neck swelling.
+No cough. No runny nose. No exposure to mono (not that he knows of). He returned from
+spring break travel (domestic) 10 days ago. He is sexually active with one partner.
+He denies rash.
+
+PAST MEDICAL HISTORY: No significant history.
+MEDICATIONS: None. ALLERGIES: Amoxicillin (rash — exact nature unclear; may be a
+mononucleosis-associated rash vs. true penicillin allergy).
+
+PHYSICAL EXAMINATION
+Vitals: Temp 38.8°C, HR 104, BP 118/74, SpO2 99%, Wt 74 kg
+General: Ill-appearing, fatigued; muffled voice; cannot fully open mouth
+HEENT:
+  - Oropharynx: Severely erythematous; bilateral tonsillar hypertrophy (3+/4);
+    white/grey exudate bilateral tonsils (Centor ×4: exudate, tender LAD, fever, no cough)
+  - Uvula: Midline (no deviation — rules out peritonsillar abscess at this time)
+  - Palate: Petechiae on soft palate
+  - Lymph nodes: Bilateral large (2–3 cm) anterior cervical lymphadenopathy, tender;
+                 POSTERIOR cervical lymphadenopathy bilateral (highly suggestive of EBV)
+Abdomen: Mild splenomegaly on palpation (tip palpable at deep inspiration); non-tender
+
+DIAGNOSTIC RESULTS
+Rapid Strep Test: NEGATIVE
+Mono Spot (heterophile antibody): POSITIVE
+EBV VCA IgM: POSITIVE (confirmatory, consistent with primary EBV infection)
+EBV VCA IgG: NEGATIVE (consistent with primary/acute infection)
+EBV EA IgG: Positive (early antigen — active infection)
+CBC: WBC 14.2 (↑), Lymphocytes 68% (lymphocytosis +++), Atypical lymphocytes seen on smear
+     Hgb 13.8 (normal), Plt 142 (mildly low — thrombocytopenia in EBV — watch)
+BMP: ALT 78 (↑), AST 64 (↑) — hepatitis (mild); Bilirubin 1.1 (normal)
+CRP: 48 mg/L (elevated — systemic inflammation)
+
+ASSESSMENT
+1. Infectious mononucleosis — confirmed (positive monospot + EBV VCA IgM)
+   Classic triad: pharyngitis + lymphadenopathy + splenomegaly
+2. EBV-associated hepatitis — mild; transaminase elevation; monitor
+3. Thrombocytopenia — mild; EBV-related; monitor
+4. Amoxicillin allergy note: EBV + amoxicillin typically causes a diffuse maculopapular
+   rash (not true allergy) — patient avoids amoxicillin regardless; no penicillin given today
+
+PLAN
+1. Supportive care — NO antibiotics (viral illness). Rest; adequate hydration; analgesics.
+2. Acetaminophen 1 g Q6H for fever and pain. Ibuprofen 600 mg TID with food for inflammation.
+3. Throat pain: Warm salt water gargles; cold/soft foods; popsicles; viscous lidocaine
+   swish-and-spit PRN for severe odynophagia.
+4. Corticosteroids: Dexamethasone 10 mg PO single dose (for severe tonsillar swelling
+   causing odynophagia; reduces airway oedema; limited short-course use appropriate here).
+5. Contact sports, vigorous exercise, and heavy lifting STRICTLY PROHIBITED for minimum
+   6 weeks — risk of splenic rupture (splenomegaly confirmed on exam; even minor trauma
+   can cause life-threatening rupture). This restriction documented.
+6. No alcohol (hepatitis; liver recovery).
+7. Repeat LFTs and CBC in 3–4 weeks.
+8. Return immediately to ER for: severe difficulty breathing, inability to swallow saliva,
+   sudden severe left shoulder or abdominal pain (splenic rupture), fainting.
+9. School/work note provided for 1 week leave; activity restriction note for athletics.
+10. Follow-up: 10–14 days.
+
+Jake and his mother (by phone) were counselled on splenic rupture risk — took seriously.
+Written discharge instructions provided. Follow-up appointment confirmed.
+
+Electronically signed: Dr. Marcus Reed, MD

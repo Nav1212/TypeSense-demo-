@@ -1,0 +1,67 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-01-09
+Patient ID: MR-0001
+Patient: Olivia C., 8F (Parent: Susan C.)
+
+CHIEF COMPLAINT
+Ear pain, runny nose, fever — 3 days.
+
+HISTORY OF PRESENT ILLNESS
+Olivia is an 8-year-old girl who presents with her mother with a 3-day history of right ear
+pain, nasal congestion with green discharge, low-grade fever (max 38.4°C at home), and mild
+cough. She has been irritable and not sleeping well. No vomiting. She is eating somewhat
+less but drinking fluids adequately. No diarrhea. Mother reports similar URI symptoms in
+other household members over the past week (older brother recovered). No prior ear
+infections this year. Immunizations are up to date.
+
+PAST MEDICAL HISTORY
+- Seasonal allergic rhinitis (tree pollen, dust mite) — on cetirizine PRN
+- Tympanostomy tubes placed age 4 (bilaterally) — tubes extruded naturally by age 6
+
+MEDICATIONS: Cetirizine 5 mg daily (PRN), acetaminophen/ibuprofen PRN for fever
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Father — seasonal allergies; Mother — asthma
+
+SOCIAL HISTORY: 2nd grade. Non-smoker household (parents do not smoke). Has one sibling.
+
+REVIEW OF SYSTEMS
+Constitutional: Fever (max 38.4°C), irritability, mild fatigue
+HEENT: Ear pain R > L; nasal congestion; green nasal discharge; mild sore throat
+Respiratory: Mild cough (non-productive); no wheezing
+GI: Decreased appetite; adequate PO intake
+
+PHYSICAL EXAMINATION
+Vitals: Temp 38.1°C, HR 100 bpm, RR 20/min, SpO2 99% RA, Wt 26 kg
+General: Alert, fussy; cooperative with exam
+HEENT:
+  - Right TM: Red, bulging, landmarks obscured; light reflex absent — acute otitis media
+  - Left TM: Slightly injected, landmarks intact — early OM vs. TM injection from URI
+  - Nose: Bilateral mucosal swelling; green/yellow discharge
+  - Throat: Posterior pharynx mildly erythematous; no exudate; no tonsillar enlargement
+  - Neck: No significant lymphadenopathy; anterior cervical nodes mildly tender, <1 cm
+Respiratory: Lungs clear to auscultation bilaterally; no wheeze, no stridor
+Abdomen: Soft, non-tender
+
+ASSESSMENT
+1. Acute otitis media (AOM) — right ear; criteria met (bulging, opaque TM, fever)
+2. Viral upper respiratory infection — concurrent; contributing to eustachian tube dysfunction
+3. Left TM — early/mild — monitor; does not meet criteria for antibiotic treatment
+
+PLAN
+1. Amoxicillin 80–90 mg/kg/day divided BID (2600 mg/day → 650 mg BID) ×10 days for AOM.
+   (Standard first-line for children ≥2 years with AOM).
+2. Continue ibuprofen 10 mg/kg Q6–8H PRN for pain and fever. Acetaminophen alternating PRN.
+3. Saline nasal spray 2 sprays each nostril BID — moisture for nasal congestion.
+4. Nasal bulb suction for congestion relief before feeds/sleep.
+5. Encourage fluid intake. Continue cetirizine daily.
+6. If no improvement or worsening after 72 hours of antibiotics, return for reassessment.
+7. Follow-up in 10–14 days to confirm ear resolution (post-AOM ear check).
+8. Discuss with mother: frequent AOM (>3/year) may warrant ENT referral for consideration
+   of tympanostomy tube replacement.
+
+Mother given written instructions and prescription. She verbalized understanding. Questions
+about antibiotic resistance addressed — explained dosing rationale.
+
+Electronically signed: Dr. Marcus Reed, MD

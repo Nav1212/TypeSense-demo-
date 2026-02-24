@@ -1,0 +1,92 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-04-04
+Patient ID: MR-0011
+Patient: Arthur W., 74M
+
+CHIEF COMPLAINT
+Shortness of breath on exertion, worsening over 6 weeks.
+
+HISTORY OF PRESENT ILLNESS
+Arthur is a 74-year-old male with a 60+ pack-year smoking history (quit 4 years ago)
+who presents with a 6-week history of progressive exertional dyspnea. He reports he
+can no longer walk more than 1 block without stopping. He has had a chronic productive
+cough for many years (clear/grey sputum) — this is his baseline. However, over the past
+2 weeks his sputum has become more yellow-green and his dyspnea has acutely worsened.
+He has used his albuterol inhaler more frequently (6–8 times/day; baseline 1–2/day).
+No chest pain. No fever subjectively (measured 37.3°C today). Denies hemoptysis. He
+has been hospitalized twice in the past 2 years for COPD exacerbations.
+
+PAST MEDICAL HISTORY
+- COPD — GOLD stage III (severe), last FEV1 44% predicted (18 months ago)
+- Tobacco dependence — quit 4 years ago
+- Hypertension
+- Cor pulmonale (right heart strain on prior echo — RV dilation, TR)
+- Osteoporosis (on therapy)
+
+MEDICATIONS
+- Tiotropium (Spiriva) 18 mcg inhaled daily
+- Fluticasone/salmeterol (Advair) 250/50 BID
+- Albuterol MDI PRN (currently overusing)
+- Ramipril 5 mg daily (hypertension)
+- Alendronate 70 mg weekly
+- Vitamin D3 1000 IU daily
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 138/86, HR 96, RR 22/min, SpO2 88% on RA (↓↓), Temp 37.3°C, Wt 64 kg
+General: Barrel chest; pursed-lip breathing at rest; significant use of accessory muscles
+         of respiration; tripod position; comfortable speaking in short phrases
+HEENT: Pursed lips; no cyanosis of lips
+Neck: No JVD at 30° (mild); trachea midline; no lymphadenopathy
+Cardiovascular: Tachycardic (96 bpm); loud P2 (consistent with pulmonary hypertension);
+               no murmurs audible (difficult due to lung sounds)
+Respiratory: Barrel-shaped chest; decreased breath sounds diffusely; bilateral prolonged
+             expiratory phase; scattered diffuse expiratory wheeze; coarse crackles right
+             base; hyperresonant to percussion
+Extremities: No significant peripheral edema; mild clubbing of fingers (chronic); trace ankle edema
+Skin: No cyanosis of extremities; mild pallor
+
+DIAGNOSTIC RESULTS
+ABG (on supplemental O2 2 L/min nasal cannula): pH 7.38, pCO2 52 (chronic), pO2 62,
+   HCO3 31 (compensated chronic respiratory acidosis — expected in GOLD III COPD)
+CXR: Hyperinflation; flattened diaphragms; increased AP diameter; right lower lobe haziness
+     — early infiltrate vs. increased secretions; no large consolidation; no PTX
+CBC: WBC 13.4 (↑), Hgb 16.2 (↑ — secondary polycythemia), Plt 188
+BMP: Na 138, K 3.8, Cr 1.0, Bicarb 30 (mildly elevated — chronic compensation)
+BNP: 310 pg/mL (↑ — consistent with cor pulmonale / right heart strain)
+Sputum culture: Sent (pending — empiric treatment started)
+
+ASSESSMENT
+1. Acute exacerbation of COPD (AECOPD) — severe; SpO2 88% RA; accessory muscle use;
+   purulent sputum; increased albuterol use; baseline FEV1 44%; 2 prior hospitalizations
+2. Possible right lower lobe pneumonia — cannot exclude on CXR; overlap with AECOPD common
+3. Cor pulmonale — stable but contributing to dyspnea burden; elevated BNP
+4. Secondary polycythemia — consistent with chronic hypoxemia
+
+PLAN
+1. Admit to medical floor for AECOPD management.
+2. Supplemental O2 titrated to SpO2 88–92% (avoiding high-flow O2 which can suppress
+   hypoxic drive in chronic CO2 retainers; target SpO2 88–92% not >95%).
+3. Systemic corticosteroids: Methylprednisolone 40 mg IV Q12H ×3 days, then transition
+   to prednisone 40 mg PO taper over 5 additional days.
+4. Empiric antibiotics: Doxycycline 100 mg BID ×5 days (covers atypical and Haemophilus;
+   adjust per sputum culture results).
+5. Aggressive bronchodilation:
+   - Ipratropium/albuterol (DuoNeb) nebulisation Q4H + PRN Q2H
+   - Continue tiotropium once daily
+6. Pulmonology consult — GOLD III COPD, recurrent exacerbations, possible need for LTOT
+   (long-term oxygen therapy if pO2 <55 at rest or <60 with cor pulmonale).
+7. Consider Pulmonary Rehabilitation referral post-discharge.
+8. Home O2 assessment pre-discharge (resting SpO2 was 88% — may qualify for home O2).
+9. DVT prophylaxis: Enoxaparin 40 mg SC daily (hospitalized, limited mobility).
+10. Monitor for respiratory failure — if worsening, ICU/non-invasive ventilation (BiPAP)
+    discussion with patient; he has expressed preference for no intubation (confirmed in DPOA).
+11. Notify pulmonology of sputum results when available.
+12. Advance directive on file — reviewed; patient prefers comfort-focused care, no intubation.
+    Son (HCP proxy) notified.
+
+Family notified of admission. Goals of care consistent with prior documentation. Plan reviewed.
+
+Electronically signed: Dr. Marcus Reed, MD

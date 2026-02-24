@@ -1,0 +1,70 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-03-01
+Patient ID: MR-0007
+Patient: Henry K., 67M
+
+CHIEF COMPLAINT
+Increased urinary frequency, difficulty initiating stream, nocturia ×4 — 6 months.
+
+HISTORY OF PRESENT ILLNESS
+Henry is a 67-year-old male presenting with a 6-month history of progressively worsening
+lower urinary tract symptoms (LUTS) including urinary frequency (every 1–2 hours), urgency,
+poor stream, incomplete emptying sensation, and nocturia up to 4 times per night disturbing
+sleep. He denies frank hematuria (urine is clear to slightly yellow). No dysuria. No fever.
+No flank pain. No recent weight loss. He has not been evaluated for this before. IPSS score
+completed today: 22 (severe symptoms).
+
+PAST MEDICAL HISTORY
+- Hypertension
+- Type 2 diabetes (well-controlled)
+- Hyperlipidemia
+
+MEDICATIONS
+- Lisinopril 10 mg daily; Metformin 1000 mg BID; Rosuvastatin 20 mg nightly
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Father — prostate cancer (diagnosed age 74, died of unrelated cause)
+
+SOCIAL HISTORY: Retired teacher. Non-smoker. Moderate alcohol (5 drinks/week). Active.
+
+PHYSICAL EXAMINATION
+Vitals: BP 128/82, HR 70, Wt 86 kg
+Abdomen: Soft; no suprapubic tenderness; bladder not palpably distended
+Digital rectal exam (DRE):
+  Prostate: Symmetrically enlarged (~40 cc estimated); smooth, rubbery texture; no focal
+  induration; no nodules; no tenderness; rectal vault normal; no rectal mass
+
+LABS
+PSA (total): 4.2 ng/mL — age-adjusted borderline (>4.0 in 67M = borderline elevated)
+UA: No WBC, no RBC, no bacteria, SG 1.018, glucose negative
+BMP: Cr 0.9 (normal); Na 140; K 4.1
+Urinalysis with microscopy: Negative
+
+POST-VOID RESIDUAL (bladder scan): 85 mL — mildly elevated (normal <50 mL)
+
+ASSESSMENT
+1. Benign prostatic hyperplasia (BPH) — severe symptoms (IPSS 22); mildly elevated PVR
+2. Borderline PSA 4.2 ng/mL — requires context: enlarged gland (~40 cc), no nodules on DRE;
+   PSA density = 4.2/40 = 0.11 ng/mL/cc (borderline — threshold 0.15 ng/mL/cc)
+3. Family history of prostate cancer — warrants urology evaluation
+
+PLAN
+1. Start tamsulosin 0.4 mg daily at bedtime (alpha-blocker — improves urinary flow; onset
+   2–4 weeks; warn about orthostatic hypotension especially first dose).
+2. Add finasteride 5 mg daily (5-alpha reductase inhibitor — shrinks prostate over 6 months;
+   also lowers PSA by ~50%; combination therapy preferred for large glands).
+3. Lifestyle: Reduce evening fluid intake after 6 pm; limit caffeine/alcohol; avoid
+   antihistamines/decongestants (worsen urinary retention).
+4. Urology referral — borderline PSA, family history of prostate cancer, large gland;
+   cystoscopy and possible prostate biopsy discussion to be had with urology.
+5. PSA repeat in 6 months (after finasteride — will approximately halve PSA; double
+   the finasteride-adjusted PSA for comparison to pre-treatment baseline).
+6. Repeat IPSS score at 3-month follow-up to assess symptom response.
+7. Return in 4 weeks to assess tolerability of tamsulosin; 3 months for IPSS reassessment.
+
+Henry counselled on PSA testing nuance (finasteride effect), urinary retention precautions
+(seek ER if unable to urinate), and importance of urology follow-up.
+
+Electronically signed: Dr. Marcus Reed, MD

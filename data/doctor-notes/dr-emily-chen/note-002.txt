@@ -1,0 +1,51 @@
+CLINICAL NOTE
+Provider: Dr. Emily Chen, MD — Internal Medicine
+Date: 2024-01-15
+Patient ID: EC-0002
+Patient: Thomas B., 47M
+
+CHIEF COMPLAINT
+Follow-up for newly diagnosed hypertension.
+
+HISTORY OF PRESENT ILLNESS
+Thomas is a 47-year-old male presenting for follow-up after hypertension was identified
+during a workplace health screening (BP 158/96 mmHg) two weeks ago. He has confirmed
+elevated readings at home (avg 152/94 over past 10 days). No headaches, no visual
+changes, no nausea. Denies chest pain. Mild intermittent occipital headache in the
+morning — resolved by midday. No family history of early cardiovascular disease.
+
+MEDICATIONS
+None currently.
+
+ALLERGIES: NKDA
+
+PHYSICAL EXAMINATION
+Vitals: BP 154/92 (right arm, seated), 150/90 (repeat 5 min), HR 76, Wt 98 kg, BMI 31.2
+General: Alert, well-nourished, no distress
+Cardiovascular: RRR, no murmurs
+Fundoscopic: No AV nicking, no papilledema
+Extremities: No edema
+
+LABS (fasting, today)
+BMP: Na 140, K 4.2, Cr 0.9, BUN 14, Glu 101
+Lipid panel: TC 218, LDL 148, HDL 38, TG 192
+TSH: 2.1 mU/L
+Urinalysis: No protein, no blood, SG 1.018
+EKG: NSR, no LVH criteria met
+
+ASSESSMENT
+1. Stage 1 hypertension — confirmed by home readings
+2. Overweight (BMI 31.2)
+3. Dyslipidemia — borderline LDL, low HDL, elevated TG
+
+PLAN
+1. Begin lifestyle modification: DASH diet, reduce sodium <2.3 g/day, aerobic exercise
+   150 min/week, weight-loss goal 5–10% body weight over 3–6 months.
+2. Initiate antihypertensive therapy: amlodipine 5 mg daily.
+3. Begin rosuvastatin 10 mg nightly for dyslipidemia / cardiovascular risk reduction.
+4. Follow-up in 4 weeks to assess BP response.
+5. Discussed cardiovascular risk calculator (10-year ASCVD ~8%). Patient agreeable to statin.
+
+Patient educated on home BP monitoring technique. Written materials provided.
+
+Electronically signed: Dr. Emily Chen, MD

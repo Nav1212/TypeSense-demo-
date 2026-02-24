@@ -1,0 +1,92 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-02-14
+Patient ID: MR-0005
+Patient: Grace T., 52F
+
+CHIEF COMPLAINT
+New onset depressed mood, loss of interest, 6 weeks.
+
+HISTORY OF PRESENT ILLNESS
+Grace is a 52-year-old female who presents with a 6-week history of depressed mood,
+loss of interest in activities she used to enjoy (gardening, cooking, book club),
+fatigue, hypersomnia (sleeping 10–11 hours but still tired), decreased concentration,
+and feelings of worthlessness. She denies suicidal ideation, self-harm, or plan. She
+denies homicidal ideation. Appetite is decreased, with ~3 kg unintentional weight loss.
+She recently retired early due to company downsizing and is adjusting to role change.
+Denies prior depressive episodes. No prior psychiatric history. No recent life losses
+(no bereavements). No substance use (no alcohol or drug use — confirmed). No significant
+medical stressors. She is having increasing conflict with her adult daughter who lives
+nearby. PHQ-9 score today: 16 (moderate-to-severe depression).
+
+PAST MEDICAL HISTORY
+- Hypertension — controlled
+- Migraine (no current preventive therapy; infrequent)
+
+MEDICATIONS: Amlodipine 5 mg daily; Sumatriptan 50 mg PRN
+
+ALLERGIES: NKDA
+
+FAMILY HISTORY: Mother — depression; Maternal uncle — bipolar disorder
+
+SOCIAL HISTORY
+Widowed 5 years ago (husband — sudden MI); recently retired. Non-smoker. No alcohol.
+Two adult children — son out of state, daughter local but strained relationship.
+
+REVIEW OF SYSTEMS
+Psychiatric: Depressed mood (+++); anhedonia (+++); fatigue (+++); hypersomnia;
+             poor concentration; worthlessness; no SI, no HI, no psychosis
+Constitutional: Weight loss ~3 kg; decreased appetite
+Thyroid/medical: Ruled out (see labs)
+Cardiovascular: No chest pain; no palpitations
+
+PHYSICAL EXAMINATION
+Vitals: BP 126/78, HR 70, Wt 66 kg (was 69 kg at last visit 4 months ago), BMI 24.2
+General: Appropriately dressed; psychomotor slowing; downcast affect; tearful at times;
+         no agitation; no evidence of psychosis
+HEENT: No thyromegaly
+Neurological: Oriented ×3; CN II–XII intact; no focal deficits
+Affect: Dysphoric; appropriate; no flight of ideas; no grandiosity
+
+SAFETY ASSESSMENT
+PHQ-9 Q9 (suicidality): 0 — denies SI, plan, or intent. Contracted for safety verbally.
+Emergency contact: Son (phone on file).
+
+LABS (ordered last week)
+TSH: 2.1 mU/L — normal (rules out hypothyroidism as cause)
+CBC: Normal
+BMP: Normal
+Vitamin B12: 380 pg/mL — normal
+Folate: Normal
+Vitamin D: 18 ng/mL (insufficient — supplement initiated)
+
+ASSESSMENT
+1. Major depressive disorder (MDD) — first episode; moderate-to-severe (PHQ-9: 16)
+2. Vitamin D insufficiency — may compound mood
+3. Psychosocial stressors: retirement, family conflict, widowhood (ongoing grief)
+
+PLAN
+1. Initiate sertraline 50 mg daily (SSRI first-line for MDD). Take with food. Counsel on:
+   - 2–4 week delay before mood improvement
+   - Common early side effects (nausea, insomnia — usually resolve in 1–2 weeks)
+   - Do not stop suddenly
+   - Report any increase in anxiety, agitation, or SI (serotonin syndrome/activation)
+2. Refer to psychology/counselling — cognitive behavioural therapy (CBT) as adjunct to
+   medication (evidence-based combination).
+3. Vitamin D3 2000 IU daily — recheck level in 3 months.
+4. Safety plan documented. Crisis line number provided (988 Suicide & Crisis Lifeline).
+   Instructed to call 911 or go to ED if SI becomes active.
+5. Lifestyle: Encourage 30 min walking daily, social engagement, regular meals, sleep
+   hygiene (consistent wake time even with hypersomnia tendencies).
+6. Family conflict: Recommend family therapy or communication counselling (community
+   resource list provided).
+7. PHQ-9 to be reassessed at each visit.
+8. Follow-up: 2 weeks (to assess medication tolerability and safety); then monthly.
+9. If PHQ-9 fails to improve by >5 points after 6–8 weeks at therapeutic dose,
+   increase sertraline to 100 mg or consider augmentation strategy.
+
+Grace was appreciative and tearful during discussion. She expressed relief that her
+symptoms were taken seriously. Agreed to call if SI develops. Appointment confirmed.
+Son's contact information obtained and he will be notified of the plan with patient's consent.
+
+Electronically signed: Dr. Marcus Reed, MD

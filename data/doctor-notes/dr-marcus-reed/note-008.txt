@@ -1,0 +1,84 @@
+CLINICAL NOTE
+Provider: Dr. Marcus Reed, MD — Family Medicine
+Date: 2024-03-12
+Patient ID: MR-0008
+Patient: Sophia L., 25F
+
+CHIEF COMPLAINT
+Severe menstrual cramps and heavy periods — ongoing for 2 years.
+
+HISTORY OF PRESENT ILLNESS
+Sophia is a 25-year-old female presenting with a 2-year history of progressively worsening
+dysmenorrhea (severe menstrual cramping) and menorrhagia. She describes cramping that begins
+1–2 days before her period and lasts through the first 3 days, rated 7–9/10, not adequately
+controlled by OTC ibuprofen (600 mg). Periods last 7–8 days with heavy flow requiring
+changing a pad every 1–2 hours on heavy days and passing clots. She has missed work/school
+3–4 times per cycle due to pain. She reports deep dyspareunia with her partner (pain during
+sexual intercourse). She also notes chronic pelvic pain that persists outside of menses.
+No fever. No vaginal discharge abnormality. No bowel symptoms. She has not been evaluated
+by GYN for these symptoms.
+
+PAST MEDICAL HISTORY: No significant history.
+MEDICATIONS: Ibuprofen 600 mg PRN (inadequate relief). ALLERGIES: NKDA.
+
+FAMILY HISTORY: Mother — endometriosis (confirmed by laparoscopy)
+
+SOCIAL HISTORY: Single. Non-smoker. No alcohol. Works as an accountant. Sexually active ×1 partner.
+
+REVIEW OF SYSTEMS
+GYN: Heavy, painful periods; dyspareunia; chronic pelvic pain; LMP 10 days ago; regular
+     cycle ×28 days; no intermenstrual bleeding; negative home pregnancy test today
+GI: Mild bloating during menses; no diarrhea, no rectal pain (denies rectal bleeding)
+Urinary: No dysuria; mild urgency during menses
+Constitutional: Fatigue — related to pain and heavy flow
+
+PHYSICAL EXAMINATION
+Vitals: BP 116/74, HR 76, Wt 58 kg, BMI 21.4
+General: Well-appearing, no acute distress
+Abdomen: Soft; mild suprapubic tenderness; no masses; no rebound
+Pelvic:
+  - External genitalia: Normal
+  - Speculum: Cervix normal; no active bleeding; no discharge; no cervical lesions
+  - Bimanual: Uterus normal size, fixed, retroflexed (retroverted — fixed = concerning
+    for adhesions/endometriosis); marked uterosacral nodularity on palpation; adnexa tender
+    bilaterally; no obvious adnexal masses palpated
+
+LABS
+CBC: Hgb 10.4 g/dL (↓ — iron deficiency anemia from chronic blood loss), MCV 71 (microcytic)
+Iron studies: Ferritin 6 ng/mL (low), TIBC elevated, serum Fe low → confirmed IDA
+Gonorrhea/Chlamydia: Sent (negative)
+Urine hCG: Negative
+CA-125: 52 U/mL (mildly elevated; nonspecific but may support endometriosis evaluation)
+
+IMAGING
+Pelvic ultrasound (transvaginal) ordered today: Pending — to evaluate uterus, ovaries,
+adenomyosis, endometrioma
+
+ASSESSMENT
+1. Suspected endometriosis — clinical picture highly suggestive: dysmenorrhea, dyspareunia,
+   chronic pelvic pain, uterosacral nodularity, fixed uterus, family history (mother confirmed
+   endometriosis). Definitive diagnosis requires laparoscopy.
+2. Iron deficiency anemia — secondary to menorrhagia
+3. Menorrhagia — functional; likely endometriosis-related
+
+PLAN
+1. Urgent GYN referral — endometriosis evaluation; discuss hormonal suppression
+   (COCP or progestins) and/or diagnostic laparoscopy.
+2. Empiric hormonal therapy: If acceptable to patient and no contraindications —
+   start low-dose combined oral contraceptive pill (OCP) for pain and flow suppression
+   while awaiting GYN. Patient agrees to try OCP.
+   → Norethindrone/ethinyl estradiol (Loestrin 1.5/30) — prescribe 3 cycles.
+3. For acute pain: Naproxen sodium 500 mg BID starting 1–2 days before expected menses
+   (better than ibuprofen for dysmenorrhea); add tranexamic acid 1 g TID during heavy flow
+   days ×5 days (antifibrinolytic to reduce blood loss).
+4. Iron replacement: Ferrous sulfate 325 mg BID with vitamin C; recheck CBC + ferritin
+   in 8 weeks.
+5. TVUS results — will call when available; copy to GYN referral.
+6. Counselling on endometriosis: Chronic condition but very treatable; fertility preservation
+   discussed (laparoscopy may be needed; early treatment may improve fertility outcomes).
+7. Follow-up: 6–8 weeks or with GYN sooner.
+
+Sophia was tearful — relieved to have her symptoms finally taken seriously. She was
+extensively counselled. Questions about fertility answered sensitively.
+
+Electronically signed: Dr. Marcus Reed, MD
