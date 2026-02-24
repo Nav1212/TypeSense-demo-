@@ -58,12 +58,11 @@ export default function ChunkPanel({ hits, onHoverDoc }: ChunkPanelProps) {
     const handleClick = (e: MouseEvent) => {
       const docId = getDocId(e.target);
       if (!docId) return;
-      const anchor = document.getElementById(`chunk-${docId}`);
-      if (anchor) {
-        anchor.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      } else {
+      // Expand the card first, then scroll after it has re-rendered
+      document.dispatchEvent(new CustomEvent('expand-doc', { detail: { docId } }));
+      setTimeout(() => {
         document.getElementById(`doc-${docId}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+      }, 50);
     };
 
     container.addEventListener('mouseover', handleMouseOver);

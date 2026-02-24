@@ -1,5 +1,6 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
 
 export interface Highlight {
@@ -79,6 +80,16 @@ interface DocCardProps {
 
 export default function DocCard({ hit, rank, isMatched, isHovered }: DocCardProps) {
   const { document: doc, highlights, text_match_info, hybrid_search_info } = hit;
+  const [expanded, setExpanded] = useState(false);
+
+  // Auto-expand when a ChunkPanel click targets this doc
+  useEffect(() => {
+    const handler = (e: Event) => {
+      if ((e as CustomEvent<{ docId: string }>).detail.docId === doc.id) setExpanded(true);
+    };
+    document.addEventListener('expand-doc', handler);
+    return () => document.removeEventListener('expand-doc', handler);
+  }, [doc.id]);
 
   const textScore = text_match_info?.score
     ? (parseInt(text_match_info.score, 10) / 2_147_483_647).toFixed(2)
@@ -153,16 +164,43 @@ export default function DocCard({ hit, rank, isMatched, isHovered }: DocCardProp
           )}
         </div>
 
-        {/* Body snippet */}
-        {bodyHL?.snippet ? (
-          <p className="mt-2 text-sm text-slate-600 dark:text-slate-300 leading-relaxed line-clamp-4">
-            {renderHighlight(bodyHL.snippet, `chunk-${doc.id}`)}
-          </p>
-        ) : (doc.description ?? doc.content) ? (
-          <p className="mt-2 text-sm text-slate-600 dark:text-slate-300 leading-relaxed line-clamp-3">
-            {doc.description ?? doc.content}
-          </p>
-        ) : null}
+        {/* Body — snippet when collapsed, full text when expanded */}
+        {(() => {
+          const fullText = doc.description ?? doc.content;
+          if (expanded && fullText) {
+            return (
+              <div className="mt-2">
+                <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed whitespace-pre-wrap">
+                  {fullText}
+                </p>
+                <button onClick={() => setExpanded(false)} className="mt-2 text-[11px] text-brand-600 dark:text-brand-400 hover:underline">
+                  Show less
+                </button>
+              </div>
+            );
+          }
+          if (bodyHL?.snippet) {
+            return (
+              <p
+                className="mt-2 text-sm text-slate-600 dark:text-slate-300 leading-relaxed line-clamp-4 cursor-pointer"
+                onClick={() => setExpanded(true)}
+              >
+                {renderHighlight(bodyHL.snippet, `chunk-${doc.id}`)}
+              </p>
+            );
+          }
+          if (fullText) {
+            return (
+              <p
+                className="mt-2 text-sm text-slate-600 dark:text-slate-300 leading-relaxed line-clamp-3 cursor-pointer"
+                onClick={() => setExpanded(true)}
+              >
+                {fullText}
+              </p>
+            );
+          }
+          return null;
+        })()}
       </div>
     </div>
   );
